@@ -7,18 +7,6 @@ a15abe4c047ab5ac8fb18e4a3a77318c7770cff0 (feat/rain) feat: добавлен до
 a7782c1b0ea1e045b0a53b91a4ac8f6c6a281c13 (origin/main, origin/HEAD, main) Initial commit
 
 
-$ git diff 7cccc3467a209b9c2544f6cf8d2a953acd11b95c 3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895
-diff --git a/story.txt b/story.txt
-index 087536c..b190e64 100644
---- a/story.txt
-+++ b/story.txt
-@@ -2,3 +2,4 @@
- Шёл дождь.
- Пистолет заряжен холостыми.
- Пьер надел нескользящие туфли.
-+В финале истории поручик Ржевский облокачивается на столб.
-
-
 $ git log --graph
 * commit 3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895 (HEAD -> ГришинСА, tag: v0.1, release/v0.1)
 | Author: Simeon <simeon02908@gmail.com>
@@ -57,4 +45,15 @@ $ git log --graph
       Initial commit
 (END)
 
+
+$ git diff 7cccc3467a209b9c2544f6cf8d2a953acd11b95c 3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895
+diff --git a/story.txt b/story.txt
+index 087536c..b190e64 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@
+ Шёл дождь.
+ Пистолет заряжен холостыми.
+ Пьер надел нескользящие туфли.
++В финале истории поручик Ржевский облокачивается на столб.
 
