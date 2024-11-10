@@ -31,3 +31,6 @@
   254  git checkout main
   255  git merge feature/remove-pillar
   256  git branch -d feature/remove-pillar
+  257  git checkout release/v0.1
+  258  git checkout -b release/v0.1
+  259  git merge main
