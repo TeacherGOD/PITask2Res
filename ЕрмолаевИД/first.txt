@@ -1,0 +1,24 @@
+commit 2bbbbaa5d635153eebae4b3b5877dae2275e6737
+Merge: 51d1c58 449928c
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Sun Nov 10 18:59:32 2024 +0500
+
+    Merge
+
+commit 51d1c58ccc25447b0a57a4cb96d8ffd4d6c7b43f
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Sun Nov 10 18:57:29 2024 +0500
+
+    Rename city
+
+commit 449928c3f25f7b770cb45874bab970a10814b183
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Sun Nov 10 18:50:36 2024 +0500
+
+    Add new style
+
+commit 5b175e43289a7c6cb3d56593e71afa73ced44c27
+Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+Date:   Sun Nov 10 18:47:26 2024 +0500
+
+    Initial
