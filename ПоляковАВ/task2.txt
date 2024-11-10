@@ -1,0 +1,28 @@
+4a1791f055eb30f7aefb7170236bca442058aa1a feature 1
+9183d15290488525dc2e6f866ea3c32e87322c0f release 1
+266a9de1bec4eb30781f2adefe4584f691bb57ac init commit
+diff --git a/story.txt b/story.txt
+index 3bcb1c6..f2e22ba 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,2 +1,3 @@
+ Initial story
+ feature 1
++release 1
+* commit 9183d15290488525dc2e6f866ea3c32e87322c0f
+| Author: Артём <polyakov0202@bk.ru>
+| Date:   Sun Nov 10 11:54:47 2024 +0500
+| 
+|     release 1
+| 
+* commit 4a1791f055eb30f7aefb7170236bca442058aa1a
+| Author: Артём <polyakov0202@bk.ru>
+| Date:   Sun Nov 10 11:54:47 2024 +0500
+| 
+|     feature 1
+| 
+* commit 266a9de1bec4eb30781f2adefe4584f691bb57ac
+  Author: Артём <polyakov0202@bk.ru>
+  Date:   Sun Nov 10 11:54:28 2024 +0500
+  
+      init commit
