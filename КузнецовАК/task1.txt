@@ -1,0 +1,28 @@
+0450cbe7ffcdd9c497dee7edece485a9c51ff417 (HEAD -> main, release/1.0, feature/soup, develop) Added soup description
+a9d84bb8e1e51f56727d265307bb64274d4eced6 (feature/family) Added family description
+5355d360f1fadc0349290dd645793899fb7606bf Initial commit
+diff --git a/story.txt b/story.txt
+index 652febc..6994e73 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,3 +1,2 @@
+ Уолтер Уайт варил суп, чтобы прокормить семью. 
+ У Уолтера была жена Скайлер, сын Уолтер мл. и дочь Холли. 
+-Его суп был самым вкусным в районе, поэтому у Уолтера было много доброжелательных друзей. 
+* commit 0450cbe7ffcdd9c497dee7edece485a9c51ff417
+| Author: Andrey Kuznetsov <ak170517@gmail.com>
+| Date:   Mon Nov 11 16:22:50 2024 +0500
+| 
+|     Added soup description
+| 
+* commit a9d84bb8e1e51f56727d265307bb64274d4eced6
+| Author: Andrey Kuznetsov <ak170517@gmail.com>
+| Date:   Mon Nov 11 16:22:49 2024 +0500
+| 
+|     Added family description
+| 
+* commit 5355d360f1fadc0349290dd645793899fb7606bf
+  Author: Andrey Kuznetsov <ak170517@gmail.com>
+  Date:   Mon Nov 11 16:22:49 2024 +0500
+  
+      Initial commit
