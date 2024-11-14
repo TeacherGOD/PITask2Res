@@ -1,0 +1,47 @@
+ee3872645502b30a5f3085c0f05d767a497617cf release: release v0.1 text
+c971ce0ec0176daa80db8f63e1e98860304bfeb3 feat: feature text 2
+189413f5e7b210e1dc0bcea7e12eacb5cb1f9c1f fix: fix text
+e33cf3b67fc225fc806257e7bce6aef8a899e06f feat: feature text 1
+c70b887cda11d1404e1a45190a60df007ec5391f Initial commit
+
+diff --git a/story.txt b/story.txt
+index 4135129..5b5cec5 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@ Initial text
+ Feature text 1
+ Fix text
+ Feature text 2
++Release v0.1 text
+
+* commit ee3872645502b30a5f3085c0f05d767a497617cf
+| Author: Aleksey <a.sokolkov@gmail.com>
+| Date:   Sat Nov 9 20:14:12 2024 +0500
+| 
+|     release: release v0.1 text
+| 
+* commit c971ce0ec0176daa80db8f63e1e98860304bfeb3
+| Author: Aleksey <a.sokolkov@gmail.com>
+| Date:   Sat Nov 9 20:14:11 2024 +0500
+| 
+|     feat: feature text 2
+| 
+* commit 189413f5e7b210e1dc0bcea7e12eacb5cb1f9c1f
+| Author: Aleksey <a.sokolkov@gmail.com>
+| Date:   Sat Nov 9 20:14:11 2024 +0500
+| 
+|     fix: fix text
+| 
+* commit e33cf3b67fc225fc806257e7bce6aef8a899e06f
+| Author: Aleksey <a.sokolkov@gmail.com>
+| Date:   Sat Nov 9 20:14:10 2024 +0500
+| 
+|     feat: feature text 1
+| 
+* commit c70b887cda11d1404e1a45190a60df007ec5391f
+  Author: Aleksey <a.sokolkov@gmail.com>
+  Date:   Sat Nov 9 20:14:09 2024 +0500
+  
+      Initial commit
+
+
