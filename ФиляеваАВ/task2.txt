@@ -1,0 +1,47 @@
+Отчет по task2: 
+65f1bf67124f5d258a967ccffb190bf77868fa7a final: Конец
+e688f8b5a0e4d8b33f0d228518c869397dab510f blank_bullets: Зарядили пистолет холостыми
+e42c76b8381ddce3b28f1957a292e6add01ebf01 shoes: заменили Пьеру туфли
+2718be410daf65fce5161b3d9589589192607966 rain: Добавили дождь
+33f9b918abaa389dc8ba23adff646eed27e807b4 initial commit
+------------------------------------------------------------------- 
+* commit 65f1bf67124f5d258a967ccffb190bf77868fa7a
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 09:51:13 2024 +0500
+| 
+|     final: Конец
+| 
+* commit e42c76b8381ddce3b28f1957a292e6add01ebf01
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 09:51:12 2024 +0500
+| 
+|     shoes: заменили Пьеру туфли
+| 
+* commit e688f8b5a0e4d8b33f0d228518c869397dab510f
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 09:51:12 2024 +0500
+| 
+|     blank_bullets: Зарядили пистолет холостыми
+| 
+* commit 2718be410daf65fce5161b3d9589589192607966
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 09:51:11 2024 +0500
+| 
+|     rain: Добавили дождь
+| 
+* commit 33f9b918abaa389dc8ba23adff646eed27e807b4
+  Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+  Date:   Thu Nov 14 09:51:11 2024 +0500
+  
+      initial commit
+------------------------------------------------------------------- 
+diff --git a/story.txt b/story.txt
+index b8e3b6b..aac305d 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,5 @@
+ Дорожки сада уже заросли, и телята и лошади ходили по английскому парку. 
+ Шел дождь. 
+ Пистолет заряжен холостыми 
++Пьер надел валенки 
++В финале истории поручик Ржевский облокачивается на столб. 
