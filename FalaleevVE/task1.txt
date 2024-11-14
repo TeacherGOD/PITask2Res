@@ -1,0 +1,77 @@
+1. git log: 
+173f4da2e7055bf29f7fc95fbe2fe779fbf32661 Merge tag 'VERSION_v2' into develop
+090244d1a4c94ed8040550de49e9811ebdf8a067 Merge branch 'hotfix/VERSION_v2'
+4a68cfe62b2b0926e535a8bc59ee3e1f861f45a7 Hotfix_v2
+8fa27101b05a3cc1688787786f1aec129f7465b3 Merge tag 'RELEASE_v1' into develop
+3fb2a8a61b5e954b28bb73039b92694d6a316d12 Merge branch 'release/RELEASE_v1'
+794fabf9ceaa188cc90e25a28810d5ab10270f6b Release_v1
+ab59100c7a5586edb50766c15af926741997db86 Feature1
+c742fe336a0e25059edb22714f23aa83837826e5 Initial commit
+ 
+2. граф: 
+*   commit 173f4da2e7055bf29f7fc95fbe2fe779fbf32661
+|\  Merge: 8fa2710 090244d
+| | Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| | Date:   Thu Nov 14 17:31:01 2024 +0500
+| | 
+| |     Merge tag 'VERSION_v2' into develop
+| |     
+| |     VERSION_v2
+| |   
+| *   commit 090244d1a4c94ed8040550de49e9811ebdf8a067
+| |\  Merge: 3fb2a8a 4a68cfe
+| | | Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| | | Date:   Thu Nov 14 17:30:54 2024 +0500
+| | | 
+| | |     Merge branch 'hotfix/VERSION_v2'
+| | | 
+| | * commit 4a68cfe62b2b0926e535a8bc59ee3e1f861f45a7
+| |/  Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| |   Date:   Thu Nov 14 17:30:44 2024 +0500
+| |   
+| |       Hotfix_v2
+| | 
+* | commit 8fa27101b05a3cc1688787786f1aec129f7465b3
+|\| Merge: ab59100 3fb2a8a
+| | Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| | Date:   Thu Nov 14 17:30:38 2024 +0500
+| | 
+| |     Merge tag 'RELEASE_v1' into develop
+| |     
+| |     RELEASE_v1
+| |   
+| *   commit 3fb2a8a61b5e954b28bb73039b92694d6a316d12
+| |\  Merge: c742fe3 794fabf
+| | | Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| | | Date:   Thu Nov 14 17:30:31 2024 +0500
+| | | 
+| | |     Merge branch 'release/RELEASE_v1'
+| | | 
+| | * commit 794fabf9ceaa188cc90e25a28810d5ab10270f6b
+| |/  Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+|/|   Date:   Thu Nov 14 17:30:18 2024 +0500
+| |   
+| |       Release_v1
+| | 
+* | commit ab59100c7a5586edb50766c15af926741997db86
+|/  Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+|   Date:   Thu Nov 14 17:30:06 2024 +0500
+|   
+|       Feature1
+| 
+* commit c742fe336a0e25059edb22714f23aa83837826e5
+  Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+  Date:   Thu Nov 14 17:29:51 2024 +0500
+  
+      Initial commit
+ 
+3. diff: 
+diff --git a/story.txt b/story.txt
+index 4abe66c..1797cd2 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,2 +1,4 @@
+ Думал, жизнь это роман, а это просто повесть 
+ Душу Дьяволу продам в обмен на твою совесть 
++Дам тебе обойму, выстрели мне в спину дважды 
++Столько лет в этой игре, но до сих пор я чую жажду 
