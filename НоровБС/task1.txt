@@ -1,4 +1,0 @@
-f0f127fbfbb3f869eb37bd43bab950c9f9d80f9a Финализирован релиз v0.1
-ada7730d22ee63ec6e6e0c8b41e325b404af509c Добавлена находка амулета
-82cfd14c03c4fb5f45b91408b66a59e5d5219baf Добавлена сцена с дождем
-b0514af34ee2e8a506368800c0f95f6bda235e0f Initial commit: начало истории

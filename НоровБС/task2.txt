@@ -1,4 +1,0 @@
-74a2bc1bf66eaaa4b3deaf5d1325cbe40969065f Амулет издает мелодию
-a28dc4eaafc8e765cecb1cd309e695e450931adf Добавлена находка амулета
-2e199436c65960578d6888709ea9c50aa42a8c39 Добавлена сцена с дождем
-1bda1af765ff8143a008ebbb9cb094ffd87e11a2 Initial commit: начало истории
