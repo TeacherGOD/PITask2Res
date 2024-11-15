@@ -1,0 +1,31 @@
+afca0129bfedebca88c9ce966c2ce288acfb1820 close second feature
+a147e732b1cc820b5891769937a8df80334dfd54 close third feature
+ab65381e6b4532dacc797f6a8602b70ca9d8c364 initial commit
+__________________________________________ 
+diff --git a/story.txt b/story.txt
+index 78f4d65..b0cbe9d 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@
+ Дорожки сада уже заросли, и телята и лошади ходили по английскому парку.  
+ Шел дождь...  
+ Без разницы пистолет Пьера был заряжен холостыми или боевыми патронами  
++Неважно какая обувь у Пьера или есть ли столб, с Наташей всё равно прощаемся, ведь от судьбы не уйдешь...  
+__________________________________________
+* commit a147e732b1cc820b5891769937a8df80334dfd54
+| Author: flexiG <mister23krut@gmail.com>
+| Date:   Fri Nov 15 15:16:54 2024 +0500
+| 
+|     close third feature
+| 
+* commit afca0129bfedebca88c9ce966c2ce288acfb1820
+| Author: flexiG <mister23krut@gmail.com>
+| Date:   Fri Nov 15 15:16:54 2024 +0500
+| 
+|     close second feature
+| 
+* commit ab65381e6b4532dacc797f6a8602b70ca9d8c364
+  Author: flexiG <mister23krut@gmail.com>
+  Date:   Fri Nov 15 15:16:53 2024 +0500
+  
+      initial commit
