@@ -1,3 +1,4 @@
 At the gatekeeper's hut by the stone entrance, no one was there and the door was unlocked. 
 It was raining, and Natasha Rostova was walking in the park under the rain. 
 Bug: Natasha Rostova died, continuation impossible. 
+Cause: Pierre Bezukhov had slippery shoes, he fell, and his gun went off. 
