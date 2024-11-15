@@ -1,0 +1,103 @@
+Отчёт по task1: 
+1. git log, режим oneline: 
+cab4793698e49ef59f46676f5eaa41f407204318 Merge tag 'RELEASE_v3' into develop
+1059879fe8913ee9023cda07b2717460e07086cf Merge branch 'release/RELEASE_v3'
+1f17a4a11449e6428d27a16346ab3d951cba307b Release_v3: жизнь продолжается
+26e73e287ee326d496d00e7c7c7eaf4cd2560ef4 Feature2: наступила весна
+437f0b2f67e224635875449df9030caafed6ad50 Merge tag 'VERSION_v2' into develop
+78ba4678eb71f80b84efe304e9b3c5e8521b8268 Merge branch 'hotfix/VERSION_v2'
+dabe5b937f724b43eaf351ce26e81ab5423890d1 Hotfix_v2: встреча Андрея и Наташи
+7180e8561bf3b95c2db1c8dd2c202ff77b34fc65 Merge tag 'RELEASE_v1' into develop
+540864b37b196cf07e3a8362e5472e563d43cf46 Merge branch 'release/RELEASE_v1'
+c769baa952b3d31d09e11051db6d784b98880a0b Release_v1: дуб прав, жизнь кончена
+dd72414775db8ed6784c3d4a6dc39658cd7818ec Feature1: шёл дождь
+3fcce8e73141abf4b1d205028343dae019279cae Initial commit: начало истории
+ 
+2. граф истории репозитория: 
+*   commit 1059879fe8913ee9023cda07b2717460e07086cf
+|\  Merge: 78ba467 1f17a4a
+| | Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| | Date:   Sun Nov 10 13:15:48 2024 +0500
+| | 
+| |     Merge branch 'release/RELEASE_v3'
+| | 
+| * commit 1f17a4a11449e6428d27a16346ab3d951cba307b
+| | Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| | Date:   Sun Nov 10 13:15:33 2024 +0500
+| | 
+| |     Release_v3: жизнь продолжается
+| | 
+| * commit 26e73e287ee326d496d00e7c7c7eaf4cd2560ef4
+| | Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| | Date:   Sun Nov 10 13:15:18 2024 +0500
+| | 
+| |     Feature2: наступила весна
+| |   
+| *   commit 437f0b2f67e224635875449df9030caafed6ad50
+| |\  Merge: 7180e85 78ba467
+| |/  Author: aF-i-v-e <avelichko.ru@yandex.ru>
+|/|   Date:   Sun Nov 10 13:15:10 2024 +0500
+| |   
+| |       Merge tag 'VERSION_v2' into develop
+| |       
+| |       VERSION_v2
+| |   
+* |   commit 78ba4678eb71f80b84efe304e9b3c5e8521b8268
+|\ \  Merge: 540864b dabe5b9
+| | | Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| | | Date:   Sun Nov 10 13:14:58 2024 +0500
+| | | 
+| | |     Merge branch 'hotfix/VERSION_v2'
+| | | 
+| * | commit dabe5b937f724b43eaf351ce26e81ab5423890d1
+|/ /  Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| |   Date:   Sun Nov 10 13:14:46 2024 +0500
+| |   
+| |       Hotfix_v2: встреча Андрея и Наташи
+| |   
+| *   commit 7180e8561bf3b95c2db1c8dd2c202ff77b34fc65
+| |\  Merge: dd72414 540864b
+| |/  Author: aF-i-v-e <avelichko.ru@yandex.ru>
+|/|   Date:   Sun Nov 10 13:14:37 2024 +0500
+| |   
+| |       Merge tag 'RELEASE_v1' into develop
+| |       
+| |       RELEASE_v1
+| |   
+* |   commit 540864b37b196cf07e3a8362e5472e563d43cf46
+|\ \  Merge: 3fcce8e c769baa
+| | | Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| | | Date:   Sun Nov 10 13:14:28 2024 +0500
+| | | 
+| | |     Merge branch 'release/RELEASE_v1'
+| | | 
+| * | commit c769baa952b3d31d09e11051db6d784b98880a0b
+| |/  Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| |   Date:   Sun Nov 10 13:14:14 2024 +0500
+| |   
+| |       Release_v1: дуб прав, жизнь кончена
+| | 
+| * commit dd72414775db8ed6784c3d4a6dc39658cd7818ec
+|/  Author: aF-i-v-e <avelichko.ru@yandex.ru>
+|   Date:   Sun Nov 10 13:13:58 2024 +0500
+|   
+|       Feature1: шёл дождь
+| 
+* commit 3fcce8e73141abf4b1d205028343dae019279cae
+  Author: aF-i-v-e <avelichko.ru@yandex.ru>
+  Date:   Sun Nov 10 13:13:38 2024 +0500
+  
+      Initial commit: начало истории
+ 
+3. diff между двумя последними коммитами в основной ветке: 
+diff --git a/story.txt b/story.txt
+index 82f17b8..3fa84a7 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,3 +1,6 @@
+ На краю дороги стоял дуб. Вероятно, в десять раз старше берез, составлявших лес, он был в десять раз толще, и в два раза выше каждой березы. 
+ Шёл дождь...Все одно и то же, и все обман! Нет ни весны, ни солнца, ни счастья... 
+ "Да, он прав, тысячу раз прав этот дуб, - думал князь Андрей, - пускай другие, молодые, вновь поддаются на этот обман, а мы знаем жизнь, - наша жизнь кончена!" 
++Из-за деревьев князь Андрей услыхал женский веселый крик и увидал бегущую наперерез его коляски толпу девушек. Впереди других, ближе, подбегала к коляске черноволосая, очень тоненькая, странно-тоненькая, черноглазая девушка в желтом ситцевом платье, повязанная белым носовым платком, из-под которого выбивались пряди расчесавшихся волос. 
++Старый дуб, весь преображенный, раскинувшись шатром сочной, темной зелени, млел, чуть колыхаясь в лучах вечернего солнца. Ни корявых пальцев, ни болячек, ни старого горя и недоверия — ничего не было видно. 
++"Нет, жизнь не кончена в тридцать один год" — вдруг окончательно беспеременно решил князь Андрей. 
