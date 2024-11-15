@@ -1,0 +1,43 @@
+e9012a0059a99538bac396f8e8dbf6263e53d850 Столб убран: обновление истории
+f598f2b2f5eecfe15bf6744e8a73cdae9cc1b259 Проблема решена: холостые патроны
+64c4890538bdf7232ab9a8ab141c520bb645feba Сообщение об ошибке: Наташа Ростова умерла, продолжение невозможно
+1ea46f53cf059d7ea46b7aade95284975822ebb4 Добавлена история о дожде
+af32a5ab7b567aa41130aff6412784f4bcc0bc4e Начало истории
+diff --git a/story.txt b/story.txt
+index d873c96..f3f1fdf 100644
+--- a/story.txt
++++ b/story.txt
+@@ -3,3 +3,4 @@
+ Шёл дождь.
+ Наташа Ростова умерла, продолжение невозможно
+ Зарядить пистолет холостыми.
++Столб убран.
+* commit e9012a0059a99538bac396f8e8dbf6263e53d850
+| Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+| Date:   Sun Nov 10 13:27:32 2024 +0500
+| 
+|     Столб убран: обновление истории
+| 
+* commit f598f2b2f5eecfe15bf6744e8a73cdae9cc1b259
+| Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+| Date:   Sun Nov 10 13:26:13 2024 +0500
+| 
+|     Проблема решена: холостые патроны
+| 
+* commit 64c4890538bdf7232ab9a8ab141c520bb645feba
+| Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+| Date:   Sun Nov 10 13:24:17 2024 +0500
+| 
+|     Сообщение об ошибке: Наташа Ростова умерла, продолжение невозможно
+| 
+* commit 1ea46f53cf059d7ea46b7aade95284975822ebb4
+| Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+| Date:   Sun Nov 10 13:20:12 2024 +0500
+| 
+|     Добавлена история о дожде
+| 
+* commit af32a5ab7b567aa41130aff6412784f4bcc0bc4e
+  Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+  Date:   Sun Nov 10 13:18:36 2024 +0500
+  
+      Начало истории

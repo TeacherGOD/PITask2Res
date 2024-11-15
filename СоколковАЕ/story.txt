@@ -1,0 +1,12 @@
+Initial text
+Feature text 1
+Fix text
+Feature text 2
+Release v0.1 text
+Task 2 feature text 1
+Task 2 fix text
+Task 2 feature text 2
+Task 2 release v1.1 text
+
+Initial repository -> https://github.com/asokolkov/university-temporary01
+
