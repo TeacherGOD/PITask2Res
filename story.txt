@@ -1,3 +1,4 @@
 "At the gatekeeper's hut by the stone entrance, no one was there and the door was unlocked." 
 "It was raining, and Natasha Rostova was walking in the park." 
 "Bug: Natasha Rostova died." 
+"Postmortem: Pierre Bezukhov fell, his gun went off." 
