@@ -1,0 +1,23 @@
+* commit f0f127fbfbb3f869eb37bd43bab950c9f9d80f9a
+| Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| Date:   Fri Nov 15 20:57:37 2024 +0500
+| 
+|     Финализирован релиз v0.1
+| 
+* commit ada7730d22ee63ec6e6e0c8b41e325b404af509c
+| Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| Date:   Fri Nov 15 20:55:47 2024 +0500
+| 
+|     Добавлена находка амулета
+| 
+* commit 82cfd14c03c4fb5f45b91408b66a59e5d5219baf
+| Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| Date:   Fri Nov 15 20:55:20 2024 +0500
+| 
+|     Добавлена сцена с дождем
+| 
+* commit b0514af34ee2e8a506368800c0f95f6bda235e0f
+  Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+  Date:   Fri Nov 15 20:54:42 2024 +0500
+  
+      Initial commit: начало истории

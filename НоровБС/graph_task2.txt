@@ -1,0 +1,23 @@
+* commit 74a2bc1bf66eaaa4b3deaf5d1325cbe40969065f
+| Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| Date:   Fri Nov 15 21:04:10 2024 +0500
+| 
+|     Амулет издает мелодию
+| 
+* commit a28dc4eaafc8e765cecb1cd309e695e450931adf
+| Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| Date:   Fri Nov 15 21:03:16 2024 +0500
+| 
+|     Добавлена находка амулета
+| 
+* commit 2e199436c65960578d6888709ea9c50aa42a8c39
+| Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| Date:   Fri Nov 15 21:02:00 2024 +0500
+| 
+|     Добавлена сцена с дождем
+| 
+* commit 1bda1af765ff8143a008ebbb9cb094ffd87e11a2
+  Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+  Date:   Fri Nov 15 20:59:27 2024 +0500
+  
+      Initial commit: начало истории
