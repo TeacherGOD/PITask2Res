@@ -2,3 +2,4 @@
 "It was raining, and Natasha Rostova was walking in the park." 
 "Bug: Natasha Rostova died." 
 "Postmortem: Pierre Bezukhov fell, his gun went off." 
+"The first version of the story is complete." 
