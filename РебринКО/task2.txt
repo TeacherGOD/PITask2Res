@@ -1,0 +1,45 @@
+49ed98197e0cc314e24f665704bf45f26323ee0a feature 2 work
+2dcb1ac8458e62dbbee6a466dfd0265e9f4132d5 feature 3 work
+7493e093db04b58e3c0a9dc4e0d427b915d544ed hotfix 1 work
+0bc86f2c49827b4dda9a51c9cec05295b42e48ff feature 1 work
+f16fdb7857555cc7275f0c338a8781425865d5a1 initial commit
+-------------------------------------
+diff --git a/story.txt b/story.txt
+index ba2950f..0e7efdc 100644
+--- a/story.txt
++++ b/story.txt
+@@ -4,3 +4,4 @@
+ шёл дождь
+ Зарядить пистолет холостыми
+ Поменять туфли
++убрать столб
+-------------------------------------
+* commit 2dcb1ac8458e62dbbee6a466dfd0265e9f4132d5
+| Author: Konstantin <rebrin24@gmail.com>
+| Date:   Fri Nov 15 23:43:12 2024 +0500
+| 
+|     feature 3 work
+| 
+* commit 49ed98197e0cc314e24f665704bf45f26323ee0a
+| Author: Konstantin <rebrin24@gmail.com>
+| Date:   Fri Nov 15 23:43:12 2024 +0500
+| 
+|     feature 2 work
+| 
+* commit 7493e093db04b58e3c0a9dc4e0d427b915d544ed
+| Author: Konstantin <rebrin24@gmail.com>
+| Date:   Fri Nov 15 23:43:12 2024 +0500
+| 
+|     hotfix 1 work
+| 
+* commit 0bc86f2c49827b4dda9a51c9cec05295b42e48ff
+| Author: Konstantin <rebrin24@gmail.com>
+| Date:   Fri Nov 15 23:43:12 2024 +0500
+| 
+|     feature 1 work
+| 
+* commit f16fdb7857555cc7275f0c338a8781425865d5a1
+  Author: Konstantin <rebrin24@gmail.com>
+  Date:   Fri Nov 15 23:43:12 2024 +0500
+  
+      initial commit
