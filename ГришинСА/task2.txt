@@ -1,0 +1,52 @@
+$ git log --pretty=oneline --all
+bee4edddaeb054017b856a948587c0f5ab521bc3 (HEAD -> master, tag: v0.1) release: Финальная версия истории
+524ff3e3110a22ffe64d8a89b14703ff95ef8598 feat: нескользящие туфли для Пьера
+bb0e864071591cd55fecc700984b3c0b82cdb62c hotfix: пистолет заряжен холостыми
+2d7c6223dd7eca9865342280b05289ef102dec70 feat: добавлен дождь
+df8487336000cdfcd3e56f65f87e478dac1162eb initial commit: начало истории
+
+
+$ git log --graph
+* commit bee4edddaeb054017b856a948587c0f5ab521bc3 (HEAD -> master, tag: v0.1)
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:51:25 2024 +0500
+|
+|     release: Финальная версия истории
+|
+* commit 524ff3e3110a22ffe64d8a89b14703ff95ef8598
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:51:25 2024 +0500
+|
+|     feat: нескользящие туфли для Пьера
+|
+* commit bb0e864071591cd55fecc700984b3c0b82cdb62c
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:51:25 2024 +0500
+|
+|     hotfix: пистолет заряжен холостыми
+|
+* commit 2d7c6223dd7eca9865342280b05289ef102dec70
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:51:25 2024 +0500
+|
+|     feat: добавлен дождь
+|
+* commit df8487336000cdfcd3e56f65f87e478dac1162eb
+  Author: Simeon <simeon02908@gmail.com>
+  Date:   Sat Nov 9 11:51:25 2024 +0500
+
+      initial commit: начало истории
+(END)
+
+$ git diff 524ff3e3110a22ffe64d8a89b14703ff95ef8598  bee4edddaeb054017b856a948587c0f5ab521bc3
+diff --git a/story.txt b/story.txt
+index 087536c..b190e64 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@
+ Шёл дождь.
+ Пистолет заряжен холостыми.
+ Пьер надел нескользящие туфли.
++В финале истории поручик Ржевский облокачивается на столб.
+
+

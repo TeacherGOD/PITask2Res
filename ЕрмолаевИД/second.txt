@@ -1,0 +1,17 @@
+* commit dbdc1625a2817fa8cfa808727b74e32d7a30a7dc
+| Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+| Date:   Sun Nov 10 19:19:07 2024 +0500
+| 
+|     Rename city
+| 
+* commit a2ebe622dfc107ae934e5e8f02af8a6cee0884d5
+| Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+| Date:   Sun Nov 10 19:18:13 2024 +0500
+| 
+|     Add new style
+| 
+* commit 7b4a815cba7eb88aff18a5e24c5405361f50c887
+  Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+  Date:   Sun Nov 10 19:15:11 2024 +0500
+  
+      Initial

@@ -1,0 +1,43 @@
+b2f75c3e885506150558b06761d48bad63a4230c changed shoes
+c9ba21ee050ba7e461ad9c8eebd2115b8c8b6936 pole removed
+72c448bbb3bbd177b83b8e62efa08651b50f410c loaded blank ammo
+1d1e7fdbf1f380509d4f94b149f093b171d8df76 added rain line
+3a8d8724aa933d6e6c0954fd0e355ea2122c1c94 Inital Commit
+diff --git a/story.txt b/story.txt
+index b9ac20f..dd2e7cd 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@
+ Шел дождь
+ Кто-то подменил патроны на холостые.
+ Чтобы не подскользнуться, Пьер поменял туфли.
++К счатью, никакого столба нигде не было.
+* commit c9ba21ee050ba7e461ad9c8eebd2115b8c8b6936
+| Author: Vaganov Vladislav <vaganovlad@gmail.com>
+| Date:   Thu Nov 14 23:54:21 2024 +0500
+| 
+|     pole removed
+| 
+* commit b2f75c3e885506150558b06761d48bad63a4230c
+| Author: Vaganov Vladislav <vaganovlad@gmail.com>
+| Date:   Thu Nov 14 23:54:21 2024 +0500
+| 
+|     changed shoes
+| 
+* commit 72c448bbb3bbd177b83b8e62efa08651b50f410c
+| Author: Vaganov Vladislav <vaganovlad@gmail.com>
+| Date:   Thu Nov 14 23:54:20 2024 +0500
+| 
+|     loaded blank ammo
+| 
+* commit 1d1e7fdbf1f380509d4f94b149f093b171d8df76
+| Author: Vaganov Vladislav <vaganovlad@gmail.com>
+| Date:   Thu Nov 14 23:54:19 2024 +0500
+| 
+|     added rain line
+| 
+* commit 3a8d8724aa933d6e6c0954fd0e355ea2122c1c94
+  Author: Vaganov Vladislav <vaganovlad@gmail.com>
+  Date:   Thu Nov 14 23:54:19 2024 +0500
+  
+      Inital Commit
