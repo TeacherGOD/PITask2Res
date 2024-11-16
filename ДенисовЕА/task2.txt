@@ -1,0 +1,50 @@
+abcb5afff2fa307b25ee3a842a350f73ecd981b4 Feature: Робот становится популярным
+b40b0566e26f6f0fc0f1275cc50ef3bced7a4184 Hotfix: Робота перепрограммировали на уборку
+ade8decedc775dbecc5e3738383b928ac2b031f7 Postmortem: Робот решает, что он библиотекарь
+6c4e3250906fa3e22920fae21b801f57cca0d1e9 Bug: Робот запер библиотекаря в кладовке
+2e8074c1768a00b5b1094426e6691e8fbb981e1e Feature: Робот забывает свою модель
+697ce2bfa0c24b8ce367bde55001f6ffb0a773c6 Initial commit: начало истории про робота
+diff --git a/story.txt b/story.txt
+index cc05309..0baef7c 100644
+--- a/story.txt
++++ b/story.txt
+@@ -5,3 +5,4 @@
+ Библиотекарь попытался настроить робота, но тот воспринял это как нападение и закрыл его в кладовке.
+ Робот подумал, что если он подписывает книги, то он и есть библиотекарь. В итоге он удалил доступ ко всем сотрудникам.
+ После долгих уговоров (и небольшого отключения питания), робота перепрограммировали на уборку книг вместо автографов.
++Теперь робот подбирает упавшие книги и приносит их посетителям. В библиотеке появился отдел автографов, где робот подписывает открытки.
+* commit abcb5afff2fa307b25ee3a842a350f73ecd981b4
+| Author: Efim Denisov <efim.denisov@gmail.com>
+| Date:   Sat Nov 16 00:27:51 2024 +0500
+| 
+|     Feature: Робот становится популярным
+| 
+* commit b40b0566e26f6f0fc0f1275cc50ef3bced7a4184
+| Author: Efim Denisov <efim.denisov@gmail.com>
+| Date:   Sat Nov 16 00:27:40 2024 +0500
+| 
+|     Hotfix: Робота перепрограммировали на уборку
+| 
+* commit ade8decedc775dbecc5e3738383b928ac2b031f7
+| Author: Efim Denisov <efim.denisov@gmail.com>
+| Date:   Sat Nov 16 00:27:26 2024 +0500
+| 
+|     Postmortem: Робот решает, что он библиотекарь
+| 
+* commit 6c4e3250906fa3e22920fae21b801f57cca0d1e9
+| Author: Efim Denisov <efim.denisov@gmail.com>
+| Date:   Sat Nov 16 00:27:14 2024 +0500
+| 
+|     Bug: Робот запер библиотекаря в кладовке
+| 
+* commit 2e8074c1768a00b5b1094426e6691e8fbb981e1e
+| Author: Efim Denisov <efim.denisov@gmail.com>
+| Date:   Sat Nov 16 00:27:03 2024 +0500
+| 
+|     Feature: Робот забывает свою модель
+| 
+* commit 697ce2bfa0c24b8ce367bde55001f6ffb0a773c6
+  Author: Efim Denisov <efim.denisov@gmail.com>
+  Date:   Sat Nov 16 00:26:23 2024 +0500
+  
+      Initial commit: начало истории про робота
