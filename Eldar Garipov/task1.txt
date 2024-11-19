@@ -1,0 +1,50 @@
+d8afd7e5527e3fdb242c8cb0d87f27e5440b9456 Release: v0.1
+b9822fe0aff4ebb3bff6b53317bd81d775340f72 Feature: Удалён столб
+ba40c5068dae81ad8018535b2ac61fd6235590a4 Hotfix: Пьер поменял туфли
+0e1f17cda634777414a1ca7ef41dc565c3ee01bb Bug: Наташа умерла
+59dc00050d94e0c799219dc3efd7e73fe1579d27 Feature: Наташа гуляет под дождём
+b92ad466c99348ee83817036634cda8eb2209c33 Initial commit: добавлено начало истории
+diff --git a/story.txt b/story.txt
+index d76087e..ebf30d8 100644
+--- a/story.txt
++++ b/story.txt
+@@ -3,3 +3,4 @@
+ Ошибка: Наташа Ростова умерла, продолжение невозможно.
+ Хотфикс: Пьер поменял туфли на нескользкие, Наташа осталась жива.
+ Изменение: Столб, от которого пуля отскочила в Наташу, убран.
++Release v0.1: Все изменения собраны.
+* commit d8afd7e5527e3fdb242c8cb0d87f27e5440b9456
+| Author: Eldar Garipov <garipov.eldar200@gmail.com>
+| Date:   Fri Nov 15 21:30:21 2024 +0500
+| 
+|     Release: v0.1
+| 
+* commit b9822fe0aff4ebb3bff6b53317bd81d775340f72
+| Author: Eldar Garipov <garipov.eldar200@gmail.com>
+| Date:   Fri Nov 15 21:25:35 2024 +0500
+| 
+|     Feature: Удалён столб
+| 
+* commit ba40c5068dae81ad8018535b2ac61fd6235590a4
+| Author: Eldar Garipov <garipov.eldar200@gmail.com>
+| Date:   Fri Nov 15 21:20:02 2024 +0500
+| 
+|     Hotfix: Пьер поменял туфли
+| 
+* commit 0e1f17cda634777414a1ca7ef41dc565c3ee01bb
+| Author: Eldar Garipov <garipov.eldar200@gmail.com>
+| Date:   Fri Nov 15 21:15:29 2024 +0500
+| 
+|     Bug: Наташа умерла
+| 
+* commit 59dc00050d94e0c799219dc3efd7e73fe1579d27
+| Author: Eldar Garipov <garipov.eldar200@gmail.com>
+| Date:   Fri Nov 15 21:05:38 2024 +0500
+| 
+|     Feature: Наташа гуляет под дождём
+| 
+* commit b92ad466c99348ee83817036634cda8eb2209c33
+  Author: Eldar Garipov <garipov.eldar200@gmail.com>
+  Date:   Fri Nov 15 20:57:33 2024 +0500
+  
+      Initial commit: добавлено начало истории
