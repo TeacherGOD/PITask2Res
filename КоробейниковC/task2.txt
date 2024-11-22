@@ -1,0 +1,43 @@
+3c8f2aab7bf778bc228bc086b7f2a8886cfeecb6 Change: убрали столб, который мешал героям
+bf8cb4e5a04bd435466e4d0a45d047601d060004 Enhancement: Пьер сменил обувь для безопасности
+fcd0b737a9d4ab2bc417742cf016fe1fa2ac5d65 Fix: холостые патроны для пистолета Пьера
+dbdf38cc7e537ebcbf2bd41b5f3d97816d35828b Scene: описание дождя и прогулки Наташи
+231f211d556ddb815ecc5e9a698b0199ec004413 Initial commit: Упадок парка
+diff --git a/story.txt b/story.txt
+index 17d8d43..9b19a34 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@
+ Дождь шёл тихо, заполняя парк мелкими лужами, по которым шла Наташа Ростова.
+ После инцидента выяснилось, что пистолет был заряжен холостыми патронами.
+ Пьер заменил свои скользкие туфли на прочные ботинки.
++Опасный столб в парке был убран, чтобы избежать новых проблем.
+* commit 3c8f2aab7bf778bc228bc086b7f2a8886cfeecb6
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:46:03 2024 +0500
+| 
+|     Change: убрали столб, который мешал героям
+| 
+* commit bf8cb4e5a04bd435466e4d0a45d047601d060004
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:45:48 2024 +0500
+| 
+|     Enhancement: Пьер сменил обувь для безопасности
+| 
+* commit fcd0b737a9d4ab2bc417742cf016fe1fa2ac5d65
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:45:25 2024 +0500
+| 
+|     Fix: холостые патроны для пистолета Пьера
+| 
+* commit dbdf38cc7e537ebcbf2bd41b5f3d97816d35828b
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:44:32 2024 +0500
+| 
+|     Scene: описание дождя и прогулки Наташи
+| 
+* commit 231f211d556ddb815ecc5e9a698b0199ec004413
+  Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+  Date:   Fri Nov 22 19:44:25 2024 +0500
+  
+      Initial commit: Упадок парка
