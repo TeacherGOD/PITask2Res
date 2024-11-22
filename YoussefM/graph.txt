@@ -1,0 +1,94 @@
+* 8c97506 Фича: противоскользящая обувь для Пьера
+* 2ca8cdc Bugfix: Наташа Ростова выжила
+* 101fec9 Add Description
+*   09d9d58 Résolution des conflits dans story.txt
+|\  
+| * 7a83875 Feature: Add description
+* | f4a7d49 Initial commit:начало истории
+|/  
+* 35b666c Feature: ajout de chaussures antidérapantes pour Пьер
+| * 39d0a6e Фича: добавление противоскользящей обуви для Пьера
+|/  
+* 6e05782 Bugfix: Наташа Ростова выжила grâce aux balles à blanc
+* f1ef9ec Feature: добавление описания дождя"
+* 381dbc8 Initial commit: Start the story
+* 0965771 Suppression du dossier YoussefM
+* 42f0816 done my homework
+* d085d81 Ajout du dossier YoussefM sans dépôt Git embarqué
+| * 3184402 Vaganov tasks
+|/  
+*   6ddba59 Merge pull request #15 from ProgramIngeneering2024/BaranovaAA
+|\  
+| * 70affc9 tasks added
+|/  
+| * ae3a529 FalaleevVE
+|/  
+*   1a4295f Merge pull request #4 from ProgramIngeneering2024/СоколковАЕ
+|\  
+| * a0bc3e5 fix: moved files to custom directory
+| * 83dfba0 feat: asokolkov files
+* |   ee319f0 Merge pull request #14 from ProgramIngeneering2024/Filyaeva
+|\ \  
+| * | 732320e Filyaeva commit
+|/ /  
+* |   d70a898 Merge pull request #12 from ProgramIngeneering2024/grigorievaAP
+|\ \  
+| * | ec3149c ГригорьеваАП
+* | |   5d96450 Merge pull request #11 from ProgramIngeneering2024/МихалевНО
+|\ \ \  
+| |/ /  
+|/| |   
+| * | c0e3607 Загрузил файлы с выполненным ДЗ
+|/ /  
+* | 6371175 Kuznetsov done
+* |   94897ca Merge pull request #10 from ProgramIngeneering2024/pimenovAA
+|\ \  
+| * | 956e428 pimenov_task2
+|/ /  
+* | decf69b rollback
+* | afd2885 pimenov_task2
+* |   23d90d6 Merge pull request #9 from ProgramIngeneering2024/Ermolaev
+|\ \  
+| * | d8ee32d Update first.txt
+| * | b374b19 Update second.txt
+| * | b94fd0c Add
+|/ /  
+* |   61abb4c Merge pull request #8 from ProgramIngeneering2024/ВеличкоАП
+|\ \  
+| * | 6f42e11 ВеличкоАП задание 2
+|/ /  
+* |   9bbaad5 Merge pull request #7 from ProgramIngeneering2024/pyatkovVK
+|\ \  
+| * | aa71a47 fix sh scripts
+|/ /  
+* |   ec1c803 Merge pull request #6 from ProgramIngeneering2024/pyatkovVK
+|\ \  
+| * | 4182e3f release task2
+| * | 64d9974 PiatkovVK added
+| |/  
+* |   2f19709 Merge pull request #5 from ProgramIngeneering2024/polyakovav
+|\ \  
+| |/  
+|/|   
+| * 3fd6135 polyakov tasks done
+|/  
+*   7229d20 Merge pull request #3 from ProgramIngeneering2024/DenisovAV
+|\  
+| * c6b2da8 DenisovAV added
+* |   dac7049 Merge pull request #2 from ProgramIngeneering2024/ГришинСА
+|\ \  
+| * | 5b4be89 fix: files moved to a directory named
+* | | a60d093 Merge pull request #1 from ProgramIngeneering2024/ГришинСА
+|\| | 
+| |/  
+|/|   
+| * 98b6fc4 chore: fixed logs for task 1
+| * c504dc0 chore: added logs for task 2
+| * a7b9c21 chore: added logs for task 1
+| * 3e0eb11 release: Финальная версия истории
+| * 7cccc34 feat: нескользящие туфли для Пьера
+| * 9739f53 hotfix: пистолет заряжен холостыми
+| * a15abe4 feat: добавлен дождь
+| * 027904b initial commit
+|/  
+* a7782c1 Initial commit

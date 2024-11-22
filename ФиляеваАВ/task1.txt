@@ -1,0 +1,47 @@
+Отчет по task1:
+708f88e3b216d7a435edaa1cb6ec7d0f1b4fa483 release/v0.1: Конец
+e4702ce606247ee867f47a3c693ff140b7d03ec1 feature/shoes: заменили Пьеру туфли
+3f23bd49b14ae439d78db395bf293c35ea1b0bb4 hotfix: Зарядили пистолет холостыми
+c28cc7d24997a528b469d3055a66fd2bc74b94d4 feature/rain: Добавили дождь
+c0c250aa1bd7f07d61e0eba1f6d91c5aede82d18 initial commit
+-------------------------------------------------------------------
+* commit 708f88e3b216d7a435edaa1cb6ec7d0f1b4fa483
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 08:57:37 2024 +0500
+| 
+|     release/v0.1: Конец
+| 
+* commit e4702ce606247ee867f47a3c693ff140b7d03ec1
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 08:52:39 2024 +0500
+| 
+|     feature/shoes: заменили Пьеру туфли
+| 
+* commit 3f23bd49b14ae439d78db395bf293c35ea1b0bb4
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 08:48:50 2024 +0500
+| 
+|     hotfix: Зарядили пистолет холостыми
+| 
+* commit c28cc7d24997a528b469d3055a66fd2bc74b94d4
+| Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| Date:   Thu Nov 14 08:42:55 2024 +0500
+| 
+|     feature/rain: Добавили дождь
+| 
+* commit c0c250aa1bd7f07d61e0eba1f6d91c5aede82d18
+  Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+  Date:   Thu Nov 14 08:39:37 2024 +0500
+  
+      initial commit
+-------------------------------------------------------------------
+diff --git a/story.txt b/story.txt
+index 9c645e3..3ddce8f 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,5 @@
+ Дорожки сада уже заросли, и телята и лошади ходили по английскому парку.
+ Шел дождь.
+ Пистолет заряжен холостыми
++Пьер надел валенки
++В финале истории поручик Ржевский облокачивается на столб.

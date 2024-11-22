@@ -1,0 +1,53 @@
+410ddeb09ac6c0151f73a7d459307c0269c610f4 release: Финальная версия истории
+baaecfb85f618440dfe15e61f3c937634bd0e326 feat: добавлена история про смерть
+ae788c59e2dfaa199b9d8db29abe826865a9f8fc hotfix: изменен цвет шариков на розовый
+7a09ada466fa6f3032b4bd83495157c55c4294bf feature: добавлена история про новый год
+b3379f72e097b91e37f09576a9a8b670572d496f feature: добавлена история про день рождение
+fd868fbe356e7a2ac2b2eaeab1061c9e6c23858e initial commit
+"" 
+diff --git a/story.txt b/story.txt
+index 7254d13..70a8395 100644
+--- a/story.txt
++++ b/story.txt
+@@ -3,3 +3,4 @@
+ На новый год - 100 розовых шариков для пинг понга.
+ И вот перед его смертью его спрашивают: "Зачем ты все время просил эти шарики
+ для пинг понга?"
++"Ладно. Они мне были нужны для..." - и умирает.
+\ No newline at end of file
+"" 
+* commit 410ddeb09ac6c0151f73a7d459307c0269c610f4
+| Author: Egor Chernomortsev <locenok89@mail.ru>
+| Date:   Fri Nov 15 00:21:59 2024 +0500
+| 
+|     release: Финальная версия истории
+| 
+* commit baaecfb85f618440dfe15e61f3c937634bd0e326
+| Author: Egor Chernomortsev <locenok89@mail.ru>
+| Date:   Fri Nov 15 00:20:32 2024 +0500
+| 
+|     feat: добавлена история про смерть
+| 
+* commit ae788c59e2dfaa199b9d8db29abe826865a9f8fc
+| Author: Egor Chernomortsev <locenok89@mail.ru>
+| Date:   Fri Nov 15 00:19:43 2024 +0500
+| 
+|     hotfix: изменен цвет шариков на розовый
+| 
+* commit 7a09ada466fa6f3032b4bd83495157c55c4294bf
+| Author: Egor Chernomortsev <locenok89@mail.ru>
+| Date:   Fri Nov 15 00:19:03 2024 +0500
+| 
+|     feature: добавлена история про новый год
+| 
+* commit b3379f72e097b91e37f09576a9a8b670572d496f
+| Author: Egor Chernomortsev <locenok89@mail.ru>
+| Date:   Fri Nov 15 00:14:08 2024 +0500
+| 
+|     feature: добавлена история про день рождение
+| 
+* commit fd868fbe356e7a2ac2b2eaeab1061c9e6c23858e
+  Author: Egor Chernomortsev <locenok89@mail.ru>
+  Date:   Fri Nov 15 00:09:56 2024 +0500
+  
+      initial commit

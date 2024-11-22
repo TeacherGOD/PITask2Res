@@ -1,0 +1,36 @@
+16f513f7dbd3ebf00641786b3dc548661599ad54 removed post
+01650c572590623b08184e64becb031fadffbd99 rain added
+f58fa9e2c40ff35a57a796fa00265408c888a87a blank ammunition
+8d65576ebcf25109a63aebe55c26d91586bb47ba initial commit
+diff --git a/story.txt b/story.txt
+index 9d8e094..367350d 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,3 +1,4 @@
+ В сторожке у каменных ворот въезда никого не было и дверь была отперта. Дорожки сада уже заросли, и телята и лошади ходили по английскому парку.
+ Шел дождь
+ Пистолет был заряжен холостыми патронами
++Унесли столб
+* commit 16f513f7dbd3ebf00641786b3dc548661599ad54
+| Author: spareProfile <da.baranova_1017@mail.ru>
+| Date:   Thu Nov 14 18:27:40 2024 +0500
+| 
+|     removed post
+| 
+* commit f58fa9e2c40ff35a57a796fa00265408c888a87a
+| Author: spareProfile <da.baranova_1017@mail.ru>
+| Date:   Thu Nov 14 18:27:39 2024 +0500
+| 
+|     blank ammunition
+| 
+* commit 01650c572590623b08184e64becb031fadffbd99
+| Author: spareProfile <da.baranova_1017@mail.ru>
+| Date:   Thu Nov 14 18:27:39 2024 +0500
+| 
+|     rain added
+| 
+* commit 8d65576ebcf25109a63aebe55c26d91586bb47ba
+  Author: spareProfile <da.baranova_1017@mail.ru>
+  Date:   Thu Nov 14 18:27:39 2024 +0500
+  
+      initial commit

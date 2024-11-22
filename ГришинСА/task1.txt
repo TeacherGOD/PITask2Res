@@ -1,0 +1,59 @@
+$ git log --pretty=oneline --all
+3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895 (HEAD -> ГришинСА, tag: v0.1, release/v0.1) release: Финальная версия истории
+7cccc3467a209b9c2544f6cf8d2a953acd11b95c (feat/new_shoes, develop) feat: нескользящие туфли для Пьера
+9739f532a6dcda2805aa6cd0e4795eb7436f94ce (hotfix/no_bullets) hotfix: пистолет заряжен холостыми
+a15abe4c047ab5ac8fb18e4a3a77318c7770cff0 (feat/rain) feat: добавлен дождь
+027904b7258d3621b3ea0811d59b41bda13f93be initial commit
+a7782c1b0ea1e045b0a53b91a4ac8f6c6a281c13 (origin/main, origin/HEAD, main) Initial commit
+
+
+$ git log --graph
+* commit 3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895 (HEAD -> ГришинСА, tag: v0.1, release/v0.1)
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:16:13 2024 +0500
+|
+|     release: Финальная версия истории
+|
+* commit 7cccc3467a209b9c2544f6cf8d2a953acd11b95c (feat/new_shoes, develop)
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:15:13 2024 +0500
+|
+|     feat: нескользящие туфли для Пьера
+|
+* commit 9739f532a6dcda2805aa6cd0e4795eb7436f94ce (hotfix/no_bullets)
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:14:07 2024 +0500
+|
+|     hotfix: пистолет заряжен холостыми
+|
+* commit a15abe4c047ab5ac8fb18e4a3a77318c7770cff0 (feat/rain)
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:12:49 2024 +0500
+|
+|     feat: добавлен дождь
+|
+* commit 027904b7258d3621b3ea0811d59b41bda13f93be
+| Author: Simeon <simeon02908@gmail.com>
+| Date:   Sat Nov 9 11:11:06 2024 +0500
+|
+|     initial commit
+|
+* commit a7782c1b0ea1e045b0a53b91a4ac8f6c6a281c13 (origin/main, origin/HEAD, main)
+  Author: Plazmer <praw2003@gmail.com>
+  Date:   Sat Nov 9 10:08:49 2024 +0500
+
+      Initial commit
+(END)
+
+
+$ git diff 7cccc3467a209b9c2544f6cf8d2a953acd11b95c 3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895
+diff --git a/story.txt b/story.txt
+index 087536c..b190e64 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@
+ Шёл дождь.
+ Пистолет заряжен холостыми.
+ Пьер надел нескользящие туфли.
++В финале истории поручик Ржевский облокачивается на столб.
+
