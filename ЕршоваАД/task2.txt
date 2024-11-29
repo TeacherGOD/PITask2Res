@@ -1,0 +1,43 @@
+45b0817b2619e5c580b19f9ef41e7174c795b1d4 release: добавлена тайная дверь в финале
+ae431d3bf3f0a0edeb4c22fc1628279bdbf62733 feat: улучшено описание сада
+b8ad7549de42c730d1e180d239c2dd6377e36c39 fix: описана заброшенная хижина
+398a38e1c6f2b33f929ce30d141208a1d36b7620 feat: добавлена загадочная фигура
+e9df6252848ce4dc90fe454655e285247bc2b286 initial commit
+diff --git a/story.txt b/story.txt
+index db194a7..610d393 100644
+--- a/story.txt
++++ b/story.txt
+@@ -3,3 +3,4 @@
+ В саду появилась загадочная фигура в плаще, сливаясь с тенями древнего сада.
+ Хижина казалась заброшенной: окна разбиты, стены покрыты плющом.
+ Сад, хотя и заросший, наполнял воздух ароматом диких цветов и жужжанием насекомых.
++За стеной, покрытой плющом, обнаружилась скрытая дверь с заржавевшими петлями.
+* commit 45b0817b2619e5c580b19f9ef41e7174c795b1d4
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:22:04 2024 +0500
+| 
+|     release: добавлена тайная дверь в финале
+| 
+* commit ae431d3bf3f0a0edeb4c22fc1628279bdbf62733
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:22:04 2024 +0500
+| 
+|     feat: улучшено описание сада
+| 
+* commit b8ad7549de42c730d1e180d239c2dd6377e36c39
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:22:03 2024 +0500
+| 
+|     fix: описана заброшенная хижина
+| 
+* commit 398a38e1c6f2b33f929ce30d141208a1d36b7620
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:22:03 2024 +0500
+| 
+|     feat: добавлена загадочная фигура
+| 
+* commit e9df6252848ce4dc90fe454655e285247bc2b286
+  Author: Anna Ershova <annaershova02@gmail.com>
+  Date:   Mon Nov 25 22:22:03 2024 +0500
+  
+      initial commit

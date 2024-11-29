@@ -1,0 +1,43 @@
+e26f884f5585ca806340ea9dfb2e7a16bf6a45dc Revealed a secret door in the wall
+4ca07bf5f5861fd72df0e5d8627ef62bb3cb9a86 Introduced a mysterious character
+2af8a3122dddb4746d17ee8856193f2eba1a8af5 Enhanced the garden description
+d15956a197b4d31dc516afb28d9e5bc2d6485e66 Added description of the abandoned cottage
+5ff4acd5a0da48d14387f2df30e17eca48eee0db initial commit
+diff --git a/story.txt b/story.txt
+index db194a7..610d393 100644
+--- a/story.txt
++++ b/story.txt
+@@ -3,3 +3,4 @@
+ В саду появилась загадочная фигура в плаще, сливаясь с тенями древнего сада.
+ Хижина казалась заброшенной: окна разбиты, стены покрыты плющом.
+ Сад, хотя и заросший, наполнял воздух ароматом диких цветов и жужжанием насекомых.
++За стеной, покрытой плющом, обнаружилась скрытая дверь с заржавевшими петлями.
+* commit e26f884f5585ca806340ea9dfb2e7a16bf6a45dc
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:15:51 2024 +0500
+| 
+|     Revealed a secret door in the wall
+| 
+* commit 2af8a3122dddb4746d17ee8856193f2eba1a8af5
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:15:50 2024 +0500
+| 
+|     Enhanced the garden description
+| 
+* commit d15956a197b4d31dc516afb28d9e5bc2d6485e66
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:15:50 2024 +0500
+| 
+|     Added description of the abandoned cottage
+| 
+* commit 4ca07bf5f5861fd72df0e5d8627ef62bb3cb9a86
+| Author: Anna Ershova <annaershova02@gmail.com>
+| Date:   Mon Nov 25 22:15:50 2024 +0500
+| 
+|     Introduced a mysterious character
+| 
+* commit 5ff4acd5a0da48d14387f2df30e17eca48eee0db
+  Author: Anna Ershova <annaershova02@gmail.com>
+  Date:   Mon Nov 25 22:15:49 2024 +0500
+  
+      initial commit
