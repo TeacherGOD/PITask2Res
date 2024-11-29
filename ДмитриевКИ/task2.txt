@@ -1,0 +1,750 @@
+4d2f3a3f9ce941c319283e3686c8a75e61f142d2 Столб убран
+b6b0a41aff3bd94c157a42402f0f17efd41470a3 Зарядили пистолет холостыми
+b5ee9f6f08a9cbbc1eff7730cefd7598a301fe79 Добавил сообщение об ошибке
+43be96d2098bceee79374447abb7e992fc9188f8 Добавил дождь
+854665ffbd343d713f49282dddcc8b56599def4e Начало истории
+99e08f4f433e1c4a5f2a20c20dd7f7d8ea234061 Убрали столб
+c704692c52ac57af0101ca2074620d90d7034b3a hotfix1: зарядить пистолет холостыми
+cf9f7ccffaad787acbb0aa8a591481a90fe7208c Добавил сообщение об ошибке
+35a1b7af5e6b809fd47b6925c59b916448908ded Добавил лошадей
+27f5fe76257500b82ca86275860831c51a1ad2c9 Добавил дождь
+0c54c7216a78f812f66114a3fd25e9c68a527c13 Начало истории
+c7224f2c7750184206519e1aae65efeab158cf20 edit story
+1b0f907320c4b0c91ec3a696a08224b0a4c93828 add story
+3307ae74eb4be556ecdf708072780fde1da4dbb3 Merge pull request #20 from ProgramIngeneering2024/Ezhikov
+1095e12e1ffba8ef1724e0d37cb8be9e46139435 Add Ezhikov
+db5a7b54b35243a117731509f88d1d9e0eac1323 Merge pull request #19 from ProgramIngeneering2024/rebrinko
+5d02ec03abed3d1d555ccfb4d2e6ca1272596110 practice102 work
+5ff05e37bb5a4f010f898bcd7de57bfccad4a735 Merge pull request #16 from ProgramIngeneering2024/VaganovVS
+62db03ee9bb55ad577f9a0f01c1886acc840c2f1 Merge pull request #18 from ProgramIngeneering2024/NorovBS
+852adbc8b955185b6658cbcb1a65485d8aaef3ae Merge pull request #17 from ProgramIngeneering2024/kozhevnikov
+382e521394df23677a936895747fea6f89985e89 Сделал домашнее задание - НоровБС
+f04293b4dc8a087a18578fe7f95bb40681c062d0 Добавление файлов для задач и истории
+6249bfe06523082a21b260c600f5c1ce4e2c39d8 Delete НоровБС directory
+20fedc9a1aeb7e1738f54d268c4a61c944fd4d0e Добавлены файлы отчетов и скрипты в папку НоровБС
+487864a64ec96cea4a7e22e2ce4ff55695662d38 resolved conflicts
+7e72286570179b1e633b65baaf0abafcbfa8b703 Merge branch 'main' of https://github.com/ProgramIngeneering2024/Practice102 into kozhevnikov
+b2e65538571bfb149d00ecbfa882b44f9bd03875 added to dir
+d6db02269a715c9d09f34b51f9364234760f19e6 added files to dir
+a147e732b1cc820b5891769937a8df80334dfd54 close third feature
+afca0129bfedebca88c9ce966c2ce288acfb1820 close second feature
+ab65381e6b4532dacc797f6a8602b70ca9d8c364 initial commit
+7a735fe4e0fb5ef9a9484d5f8c486d0895fc0ebe RELEASE_v3
+1e4ef9eafd03e9cf4fca989d1611cb3f8e0e5077 RELEASE_v3
+d6b03e9404b598e43ea0135a91182de1c68cb323 v0.3
+1cc407ec1f4a025140dec745381e0e64e57b1bfa close third feature
+9adfb42c584c2d4bd10113cb1ad5f73434aab438 RELEASE_v2
+22913d6372aab835ebecd6de771ac0d847525376 RELEASE_v2
+7343822451d224e2a7ce19f107caf9162e6cf208 v0.2
+ce74e91050cbcd17bfd682e19287fb7b971291e8 close second feature
+bf04457740b05ee857745d4faa55a00ff25d3053 RELEASE_v1
+546e19576793b04499db8ab0f4e55440daf9cc54 RELEASE_v1
+f2aa676e137ed50115115d29124b3371d5ca4748 v0.1
+c207d500fee1173b842170d65049850c9a374a9b close first feature
+415205526d061be8d31fca8546bd4a3bb7d1c14e initial commit
+5f08f2378275cc82b87165ea0487c388161d4e1b Добавление всех необходимых файлов для упражнения
+8c97506ebadc2fd00178c122af04e10cafe02964 Фича: противоскользящая обувь для Пьера
+2ca8cdcb5ec975bf797e7c486839df1db2d6e796 Bugfix: Наташа Ростова выжила
+101fec941409009b53e90d519d1ef80c471e8df8 Add Description
+09d9d582a091a5d717531c669987aaadf7a7e94b Résolution des conflits dans story.txt
+7a83875911038fb7bb123fdf6517007791d85fd6 Feature: Add description
+f4a7d491a84002af7057f7ac14aa9fc51ca0f8b7 Initial commit:начало истории
+35b666ce93dfac59c9fdfc04066eef8064e0264a Feature: ajout de chaussures antidérapantes pour Пьер
+6e057820e073a3c12b6c129b1a4e7d5b4166b5a3 Bugfix: Наташа Ростова выжила grâce aux balles à blanc
+f1ef9ec676e15f857f3bdeebe543bbe6a3bc1f41 Feature: добавление описания дождя"
+381dbc8b277ebc5a1df9eca23178e40b47696874 Initial commit: Start the story
+0965771a9f33592467e088c1cf1df99a820d6dd6 Suppression du dossier YoussefM
+42f08163da47785ddfeda74139737c06d078cfd8 done my homework
+d085d81be16570e0e2137a83cec7a7c1f809add5 Ajout du dossier YoussefM sans dépôt Git embarqué
+31844025b20ac94aaf422621ecd93442c091a059 Vaganov tasks
+6ddba59025db455fd6ec12cd60d842066821329f Merge pull request #15 from ProgramIngeneering2024/BaranovaAA
+70affc9ac47f154cf5299342900e0884ff2438c0 tasks added
+1a4295f53836ba1ce72f88f41e42fdf905cfda8f Merge pull request #4 from ProgramIngeneering2024/СоколковАЕ
+ee319f070f509fbcd78d348c2cbe3022922f64cd Merge pull request #14 from ProgramIngeneering2024/Filyaeva
+732320e4e3274cd5a55a8da1dfcda7a9b32f6f62 Filyaeva commit
+d70a8987638fa830d380d5e94b7d51a1033c5155 Merge pull request #12 from ProgramIngeneering2024/grigorievaAP
+5d964507784a5cb13015e37cf753acbe7cbba9ce Merge pull request #11 from ProgramIngeneering2024/МихалевНО
+ec3149cefced8cc15b6f3691db2153b063beb1b1 ГригорьеваАП
+c0e3607514af90b479ea29716bc849edf497ed8c Загрузил файлы с выполненным ДЗ
+6371175a2ede185aff901ad7bc6bca2428c43421 Kuznetsov done
+94897ca2cccbce2251f92e1ea4425db406a79a05 Merge pull request #10 from ProgramIngeneering2024/pimenovAA
+956e42806aa504b24a64f8c7cc539734c511d28d pimenov_task2
+decf69b5d93c2248f0f8f8b30824321bd4abbf8a rollback
+afd28853f7cd7f02944773d6ae583e810cbda4ce pimenov_task2
+23d90d683d9e30970bdefd94f1b19b9c8d1b2c5a Merge pull request #9 from ProgramIngeneering2024/Ermolaev
+d8ee32db6d5e62f7d45dd6d7fd35b565e6ebe5ee Update first.txt
+b374b19facd8ed511afc0ab51f487dafeedb90d7 Update second.txt
+b94fd0c67508cc27e4c4b291c9979666852b1de7 Add
+61abb4c9536e5d27176c5f36f98aa62b45930be3 Merge pull request #8 from ProgramIngeneering2024/ВеличкоАП
+6f42e1112fb0a8a44160b53d2ccdd1a204949e71 ВеличкоАП задание 2
+9bbaad5f6c99281776653b378ea0881153ca850c Merge pull request #7 from ProgramIngeneering2024/pyatkovVK
+aa71a47809d3b8b508e26998d3375eb8cadafce2 fix sh scripts
+ec1c803d6c1fb567ecb1d61ec6867b9ba39d4948 Merge pull request #6 from ProgramIngeneering2024/pyatkovVK
+2f197095d6c659095ea2dfada52ae7db0f071ed7 Merge pull request #5 from ProgramIngeneering2024/polyakovav
+4182e3fe931ad5c0e2e5e409d557527cf5097bb1 release task2
+64d99741442e5881900a83415201f1a33529e3a9 PiatkovVK added
+3fd6135fb43a91ee52fdb77112e13b1d3aad0b34 polyakov tasks done
+a0bc3e516ccfe9475673d03ab9bc7635835b5bff fix: moved files to custom directory
+83dfba0104400015e602565802950237002531d7 feat: asokolkov files
+7229d203c54526961d32122189b0431812bb61d5 Merge pull request #3 from ProgramIngeneering2024/DenisovAV
+c6b2da8e9494b8e1c3112c46746b486aa05f14cf DenisovAV added
+dac70492f6186e33ac374496384994b1cb3e110d Merge pull request #2 from ProgramIngeneering2024/ГришинСА
+5b4be890ea421ba14c209a87e2acce1ca1cc71bd fix: files moved to a directory named
+a60d0932a18905176257aa0990b230ebf8c381f9 Merge pull request #1 from ProgramIngeneering2024/ГришинСА
+98b6fc474744efd9d19f833aad6052d925c3cc99 chore: fixed logs for task 1
+c504dc03704b06c1f8677f55b98cbac04df961f7 chore: added logs for task 2
+a7b9c219e85c50da7a6ea0b09f9f1671dbe275b2 chore: added logs for task 1
+3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895 release: Финальная версия истории
+7cccc3467a209b9c2544f6cf8d2a953acd11b95c feat: нескользящие туфли для Пьера
+9739f532a6dcda2805aa6cd0e4795eb7436f94ce hotfix: пистолет заряжен холостыми
+a15abe4c047ab5ac8fb18e4a3a77318c7770cff0 feat: добавлен дождь
+027904b7258d3621b3ea0811d59b41bda13f93be initial commit
+a7782c1b0ea1e045b0a53b91a4ac8f6c6a281c13 Initial commit
+diff --git "a/\320\224\320\274\320\270\321\202\321\200\320\270\320\265\320\262\320\232\320\230/story.txt" "b/\320\224\320\274\320\270\321\202\321\200\320\270\320\265\320\262\320\232\320\230/story.txt"
+index c31a225..8660d7d 100644
+--- "a/\320\224\320\274\320\270\321\202\321\200\320\270\320\265\320\262\320\232\320\230/story.txt"
++++ "b/\320\224\320\274\320\270\321\202\321\200\320\270\320\265\320\262\320\232\320\230/story.txt"
+@@ -2,3 +2,4 @@
+ Шёл дождь.
+ Наташа Ростова умерла.
+ Зарядили пистолет холостыми.
++Убрали столб.
+* commit 4d2f3a3f9ce941c319283e3686c8a75e61f142d2
+| Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+| Date:   Sat Nov 16 04:58:29 2024 +0500
+| 
+|     Столб убран
+| 
+* commit b6b0a41aff3bd94c157a42402f0f17efd41470a3
+| Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+| Date:   Sat Nov 16 04:58:03 2024 +0500
+| 
+|     Зарядили пистолет холостыми
+| 
+* commit b5ee9f6f08a9cbbc1eff7730cefd7598a301fe79
+| Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+| Date:   Sat Nov 16 04:57:42 2024 +0500
+| 
+|     Добавил сообщение об ошибке
+| 
+* commit 43be96d2098bceee79374447abb7e992fc9188f8
+| Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+| Date:   Sat Nov 16 04:56:38 2024 +0500
+| 
+|     Добавил дождь
+| 
+* commit 854665ffbd343d713f49282dddcc8b56599def4e
+| Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+| Date:   Sat Nov 16 04:56:24 2024 +0500
+| 
+|     Начало истории
+| 
+* commit 1b0f907320c4b0c91ec3a696a08224b0a4c93828
+| Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+| Date:   Sat Nov 16 04:28:14 2024 +0500
+| 
+|     add story
+|   
+*   commit 3307ae74eb4be556ecdf708072780fde1da4dbb3
+|\  Merge: db5a7b5 1095e12
+| | Author: Pavel Yozhikov <mail@dfjay.com>
+| | Date:   Sat Nov 16 00:02:20 2024 +0500
+| | 
+| |     Merge pull request #20 from ProgramIngeneering2024/Ezhikov
+| |     
+| |     ЕжиковПА
+| | 
+| * commit 1095e12e1ffba8ef1724e0d37cb8be9e46139435
+|/  Author: Pavel Yozhikov <mail@dfjay.com>
+|   Date:   Sat Nov 16 00:00:01 2024 +0500
+|   
+|       Add Ezhikov
+|   
+*   commit db5a7b54b35243a117731509f88d1d9e0eac1323
+|\  Merge: 5ff05e3 5d02ec0
+| | Author: Plazmer <praw2003@gmail.com>
+| | Date:   Fri Nov 15 23:53:47 2024 +0500
+| | 
+| |     Merge pull request #19 from ProgramIngeneering2024/rebrinko
+| |     
+| |     practice102 work
+| | 
+| * commit 5d02ec03abed3d1d555ccfb4d2e6ca1272596110
+|/  Author: Konstantin <rebrin24@gmail.com>
+|   Date:   Fri Nov 15 23:50:01 2024 +0500
+|   
+|       practice102 work
+|   
+*   commit 5ff05e37bb5a4f010f898bcd7de57bfccad4a735
+|\  Merge: 62db03e 3184402
+| | Author: Plazmer <praw2003@gmail.com>
+| | Date:   Fri Nov 15 23:19:00 2024 +0500
+| | 
+| |     Merge pull request #16 from ProgramIngeneering2024/VaganovVS
+| |     
+| |     Ваганов ВС
+| | 
+| * commit 31844025b20ac94aaf422621ecd93442c091a059
+| | Author: Vaganov Vladislav <vaganovlad@gmail.com>
+| | Date:   Thu Nov 14 23:56:59 2024 +0500
+| | 
+| |     Vaganov tasks
+| |   
+* |   commit 62db03ee9bb55ad577f9a0f01c1886acc840c2f1
+|\ \  Merge: 852adbc 382e521
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Fri Nov 15 23:18:31 2024 +0500
+| | | 
+| | |     Merge pull request #18 from ProgramIngeneering2024/NorovBS
+| | |     
+| | |     Сделал домашнее задание - НоровБС
+| | | 
+| * | commit 382e521394df23677a936895747fea6f89985e89
+| | | Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| | | Date:   Fri Nov 15 23:10:04 2024 +0500
+| | | 
+| | |     Сделал домашнее задание - НоровБС
+| | |   
+* | |   commit 852adbc8b955185b6658cbcb1a65485d8aaef3ae
+|\ \ \  Merge: f04293b 487864a
+| |/ /  Author: Plazmer <praw2003@gmail.com>
+|/| |   Date:   Fri Nov 15 23:18:01 2024 +0500
+| | |   
+| | |       Merge pull request #17 from ProgramIngeneering2024/kozhevnikov
+| | |       
+| | |       Кожевников АА
+| | |   
+| * |   commit 487864a64ec96cea4a7e22e2ce4ff55695662d38
+| |\ \  Merge: 7e72286 d6db022
+| | | | Author: flexiG <mister23krut@gmail.com>
+| | | | Date:   Fri Nov 15 15:38:19 2024 +0500
+| | | | 
+| | | |     resolved conflicts
+| | | | 
+| | * | commit d6db02269a715c9d09f34b51f9364234760f19e6
+| | | | Author: flexiG <mister23krut@gmail.com>
+| | | | Date:   Fri Nov 15 15:29:27 2024 +0500
+| | | | 
+| | | |     added files to dir
+| | | |   
+| | * |   commit 7a735fe4e0fb5ef9a9484d5f8c486d0895fc0ebe
+| | |\ \  Merge: 1cc407e 1e4ef9e
+| | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | Date:   Fri Nov 15 15:13:30 2024 +0500
+| | | | | 
+| | | | |     RELEASE_v3
+| | | | |   
+| | | * |   commit 1e4ef9eafd03e9cf4fca989d1611cb3f8e0e5077
+| | | |\ \  Merge: 22913d6 d6b03e9
+| | | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | | Date:   Fri Nov 15 15:13:09 2024 +0500
+| | | | | | 
+| | | | | |     RELEASE_v3
+| | | | | | 
+| | | | * | commit d6b03e9404b598e43ea0135a91182de1c68cb323
+| | | |/ /  Author: flexiG <mister23krut@gmail.com>
+| | |/| |   Date:   Fri Nov 15 15:12:57 2024 +0500
+| | | | |   
+| | | | |       v0.3
+| | | | | 
+| | * | | commit 1cc407ec1f4a025140dec745381e0e64e57b1bfa
+| | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | Date:   Fri Nov 15 15:12:45 2024 +0500
+| | | | | 
+| | | | |     close third feature
+| | | | | 
+| | * | | commit 9adfb42c584c2d4bd10113cb1ad5f73434aab438
+| | |\| | Merge: ce74e91 22913d6
+| | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | Date:   Fri Nov 15 15:12:27 2024 +0500
+| | | | | 
+| | | | |     RELEASE_v2
+| | | | |     
+| | | | |     RELEASE_v2
+| | | | |   
+| | | * |   commit 22913d6372aab835ebecd6de771ac0d847525376
+| | | |\ \  Merge: 546e195 7343822
+| | | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | | Date:   Fri Nov 15 15:12:10 2024 +0500
+| | | | | | 
+| | | | | |     RELEASE_v2
+| | | | | | 
+| | | | * | commit 7343822451d224e2a7ce19f107caf9162e6cf208
+| | | |/ /  Author: flexiG <mister23krut@gmail.com>
+| | |/| |   Date:   Fri Nov 15 15:11:58 2024 +0500
+| | | | |   
+| | | | |       v0.2
+| | | | | 
+| | * | | commit ce74e91050cbcd17bfd682e19287fb7b971291e8
+| | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | Date:   Fri Nov 15 15:11:46 2024 +0500
+| | | | | 
+| | | | |     close second feature
+| | | | | 
+| | * | | commit bf04457740b05ee857745d4faa55a00ff25d3053
+| | |\| | Merge: c207d50 546e195
+| | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | Date:   Fri Nov 15 15:10:36 2024 +0500
+| | | | | 
+| | | | |     RELEASE_v1
+| | | | |     
+| | | | |     RELEASE_1
+| | | | |   
+| | | * |   commit 546e19576793b04499db8ab0f4e55440daf9cc54
+| | | |\ \  Merge: 4152055 f2aa676
+| | | | | | Author: flexiG <mister23krut@gmail.com>
+| | | | | | Date:   Fri Nov 15 15:10:16 2024 +0500
+| | | | | | 
+| | | | | |     RELEASE_v1
+| | | | | | 
+| | | | * | commit f2aa676e137ed50115115d29124b3371d5ca4748
+| | | |/ /  Author: flexiG <mister23krut@gmail.com>
+| | |/| |   Date:   Fri Nov 15 15:10:05 2024 +0500
+| | | | |   
+| | | | |       v0.1
+| | | | | 
+| | * | | commit c207d500fee1173b842170d65049850c9a374a9b
+| | |/ /  Author: flexiG <mister23krut@gmail.com>
+| | | |   Date:   Fri Nov 15 15:09:53 2024 +0500
+| | | |   
+| | | |       close first feature
+| | | | 
+| | * | commit 415205526d061be8d31fca8546bd4a3bb7d1c14e
+| |  /  Author: flexiG <mister23krut@gmail.com>
+| | |   Date:   Fri Nov 15 15:09:39 2024 +0500
+| | |   
+| | |       initial commit
+| | |   
+| * |   commit 7e72286570179b1e633b65baaf0abafcbfa8b703
+| |\ \  Merge: b2e6553 5f08f23
+| | | | Author: flexiG <mister23krut@gmail.com>
+| | | | Date:   Fri Nov 15 15:34:35 2024 +0500
+| | | | 
+| | | |     Merge branch 'main' of https://github.com/ProgramIngeneering2024/Practice102 into kozhevnikov
+| | | | 
+| * | | commit b2e65538571bfb149d00ecbfa882b44f9bd03875
+| | | | Author: flexiG <mister23krut@gmail.com>
+| | | | Date:   Fri Nov 15 15:32:56 2024 +0500
+| | | | 
+| | | |     added to dir
+| | | | 
+| * | | commit a147e732b1cc820b5891769937a8df80334dfd54
+| | | | Author: flexiG <mister23krut@gmail.com>
+| | | | Date:   Fri Nov 15 15:16:54 2024 +0500
+| | | | 
+| | | |     close third feature
+| | | | 
+| * | | commit afca0129bfedebca88c9ce966c2ce288acfb1820
+| | | | Author: flexiG <mister23krut@gmail.com>
+| | | | Date:   Fri Nov 15 15:16:54 2024 +0500
+| | | | 
+| | | |     close second feature
+| | | | 
+| * | | commit ab65381e6b4532dacc797f6a8602b70ca9d8c364
+|  / /  Author: flexiG <mister23krut@gmail.com>
+| | |   Date:   Fri Nov 15 15:16:53 2024 +0500
+| | |   
+| | |       initial commit
+| | | 
+* | | commit f04293b4dc8a087a18578fe7f95bb40681c062d0
+| | | Author: Maawiya <maawiyaabdi120@gmail.com>
+| | | Date:   Fri Nov 15 22:24:19 2024 +0500
+| | | 
+| | |     Добавление файлов для задач и истории
+| | | 
+* | | commit 6249bfe06523082a21b260c600f5c1ce4e2c39d8
+| | | Author: Bekhruz Norov <105427207+BSNorov@users.noreply.github.com>
+| | | Date:   Fri Nov 15 21:36:07 2024 +0500
+| | | 
+| | |     Delete НоровБС directory
+| | | 
+* | | commit 20fedc9a1aeb7e1738f54d268c4a61c944fd4d0e
+|/ /  Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+| |   Date:   Fri Nov 15 21:28:17 2024 +0500
+| |   
+| |       Добавлены файлы отчетов и скрипты в папку НоровБС
+| | 
+* | commit 5f08f2378275cc82b87165ea0487c388161d4e1b
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 22:03:41 2024 +0100
+| | 
+| |     Добавление всех необходимых файлов для упражнения
+| | 
+* | commit 8c97506ebadc2fd00178c122af04e10cafe02964
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 21:43:38 2024 +0100
+| | 
+| |     Фича: противоскользящая обувь для Пьера
+| | 
+* | commit 2ca8cdcb5ec975bf797e7c486839df1db2d6e796
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 21:42:11 2024 +0100
+| | 
+| |     Bugfix: Наташа Ростова выжила
+| | 
+* | commit 101fec941409009b53e90d519d1ef80c471e8df8
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 21:41:23 2024 +0100
+| | 
+| |     Add Description
+| |   
+* |   commit 09d9d582a091a5d717531c669987aaadf7a7e94b
+|\ \  Merge: f4a7d49 7a83875
+| | | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | | Date:   Thu Nov 14 21:40:04 2024 +0100
+| | | 
+| | |     Résolution des conflits dans story.txt
+| | | 
+| * | commit 7a83875911038fb7bb123fdf6517007791d85fd6
+| | | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | | Date:   Thu Nov 14 21:30:54 2024 +0100
+| | | 
+| | |     Feature: Add description
+| | | 
+* | | commit f4a7d491a84002af7057f7ac14aa9fc51ca0f8b7
+|/ /  Author: YoussefM-gif <youssef.meissa@mail.ru>
+| |   Date:   Thu Nov 14 21:28:01 2024 +0100
+| |   
+| |       Initial commit:начало истории
+| | 
+* | commit 35b666ce93dfac59c9fdfc04066eef8064e0264a
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 21:13:34 2024 +0100
+| | 
+| |     Feature: ajout de chaussures antidérapantes pour Пьер
+| | 
+* | commit 6e057820e073a3c12b6c129b1a4e7d5b4166b5a3
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 21:12:08 2024 +0100
+| | 
+| |     Bugfix: Наташа Ростова выжила grâce aux balles à blanc
+| | 
+* | commit f1ef9ec676e15f857f3bdeebe543bbe6a3bc1f41
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 21:09:36 2024 +0100
+| | 
+| |     Feature: добавление описания дождя"
+| | 
+* | commit 381dbc8b277ebc5a1df9eca23178e40b47696874
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 21:07:11 2024 +0100
+| | 
+| |     Initial commit: Start the story
+| | 
+* | commit 0965771a9f33592467e088c1cf1df99a820d6dd6
+| | Author: YoussefM-gif <youssef.meissa@mail.ru>
+| | Date:   Thu Nov 14 20:57:19 2024 +0100
+| | 
+| |     Suppression du dossier YoussefM
+| | 
+* | commit 42f08163da47785ddfeda74139737c06d078cfd8
+| | Author: Egor Chernomortsev <locenok89@mail.ru>
+| | Date:   Fri Nov 15 00:33:35 2024 +0500
+| | 
+| |     done my homework
+| | 
+* | commit d085d81be16570e0e2137a83cec7a7c1f809add5
+|/  Author: YoussefM-gif <youssef.meissa@mail.ru>
+|   Date:   Thu Nov 14 20:06:51 2024 +0100
+|   
+|       Ajout du dossier YoussefM sans dépôt Git embarqué
+|   
+*   commit 6ddba59025db455fd6ec12cd60d842066821329f
+|\  Merge: 1a4295f 70affc9
+| | Author: Plazmer <praw2003@gmail.com>
+| | Date:   Thu Nov 14 20:34:00 2024 +0500
+| | 
+| |     Merge pull request #15 from ProgramIngeneering2024/BaranovaAA
+| |     
+| |     tasks added
+| | 
+| * commit 70affc9ac47f154cf5299342900e0884ff2438c0
+|/  Author: spareProfile <da.baranova_1017@mail.ru>
+|   Date:   Thu Nov 14 19:10:24 2024 +0500
+|   
+|       tasks added
+|   
+*   commit 1a4295f53836ba1ce72f88f41e42fdf905cfda8f
+|\  Merge: ee319f0 a0bc3e5
+| | Author: Plazmer <praw2003@gmail.com>
+| | Date:   Thu Nov 14 10:44:35 2024 +0500
+| | 
+| |     Merge pull request #4 from ProgramIngeneering2024/СоколковАЕ
+| |     
+| |     СоколковАЕ
+| | 
+| * commit a0bc3e516ccfe9475673d03ab9bc7635835b5bff
+| | Author: Aleksey <a.sokolkov@gmail.com>
+| | Date:   Sat Nov 9 20:42:59 2024 +0500
+| | 
+| |     fix: moved files to custom directory
+| | 
+| * commit 83dfba0104400015e602565802950237002531d7
+| | Author: Aleksey <a.sokolkov@gmail.com>
+| | Date:   Sat Nov 9 20:38:26 2024 +0500
+| | 
+| |     feat: asokolkov files
+| |   
+* |   commit ee319f070f509fbcd78d348c2cbe3022922f64cd
+|\ \  Merge: d70a898 732320e
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Thu Nov 14 10:44:13 2024 +0500
+| | | 
+| | |     Merge pull request #14 from ProgramIngeneering2024/Filyaeva
+| | |     
+| | |     Filyaeva
+| | | 
+| * | commit 732320e4e3274cd5a55a8da1dfcda7a9b32f6f62
+|/ /  Author: Alyona Filyaeva <alyonchikfilyaeva@yandex.ru>
+| |   Date:   Thu Nov 14 10:30:01 2024 +0500
+| |   
+| |       Filyaeva commit
+| |   
+* |   commit d70a8987638fa830d380d5e94b7d51a1033c5155
+|\ \  Merge: 5d96450 ec3149c
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Wed Nov 13 23:34:44 2024 +0500
+| | | 
+| | |     Merge pull request #12 from ProgramIngeneering2024/grigorievaAP
+| | |     
+| | |     ГригорьеваАП
+| | | 
+| * | commit ec3149cefced8cc15b6f3691db2153b063beb1b1
+| | | Author: Anastasiia Grigoreva <grinastich@gmail.com>
+| | | Date:   Wed Nov 13 23:11:19 2024 +0500
+| | | 
+| | |     ГригорьеваАП
+| | |   
+* | |   commit 5d964507784a5cb13015e37cf753acbe7cbba9ce
+|\ \ \  Merge: 6371175 c0e3607
+| |/ /  Author: Plazmer <praw2003@gmail.com>
+|/| |   Date:   Wed Nov 13 23:34:12 2024 +0500
+| | |   
+| | |       Merge pull request #11 from ProgramIngeneering2024/МихалевНО
+| | |       
+| | |       МихалевНО: Загрузил файлы с выполненным ДЗ
+| | | 
+| * | commit c0e3607514af90b479ea29716bc849edf497ed8c
+|/ /  Author: frog016 <78908105+frog016@users.noreply.github.com>
+| |   Date:   Tue Nov 12 19:52:46 2024 +0500
+| |   
+| |       Загрузил файлы с выполненным ДЗ
+| | 
+* | commit 6371175a2ede185aff901ad7bc6bca2428c43421
+| | Author: Andrey Kuznetsov <ak170517@gmail.com>
+| | Date:   Mon Nov 11 18:47:49 2024 +0500
+| | 
+| |     Kuznetsov done
+| |   
+* |   commit 94897ca2cccbce2251f92e1ea4425db406a79a05
+|\ \  Merge: decf69b 956e428
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Mon Nov 11 07:12:47 2024 +0500
+| | | 
+| | |     Merge pull request #10 from ProgramIngeneering2024/pimenovAA
+| | |     
+| | |     ПименовАА
+| | | 
+| * | commit 956e42806aa504b24a64f8c7cc539734c511d28d
+|/ /  Author: Alexander Pimenov <sasha.pimenov.2002@inbox.ru>
+| |   Date:   Mon Nov 11 01:22:35 2024 +0500
+| |   
+| |       pimenov_task2
+| | 
+* | commit decf69b5d93c2248f0f8f8b30824321bd4abbf8a
+| | Author: Alexander Pimenov <sasha.pimenov.2002@inbox.ru>
+| | Date:   Mon Nov 11 01:15:37 2024 +0500
+| | 
+| |     rollback
+| | 
+* | commit afd28853f7cd7f02944773d6ae583e810cbda4ce
+| | Author: Alexander Pimenov <sasha.pimenov.2002@inbox.ru>
+| | Date:   Mon Nov 11 00:56:53 2024 +0500
+| | 
+| |     pimenov_task2
+| |   
+* |   commit 23d90d683d9e30970bdefd94f1b19b9c8d1b2c5a
+|\ \  Merge: 61abb4c d8ee32d
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Sun Nov 10 23:54:03 2024 +0500
+| | | 
+| | |     Merge pull request #9 from ProgramIngeneering2024/Ermolaev
+| | |     
+| | |     Ермолаев
+| | | 
+| * | commit d8ee32db6d5e62f7d45dd6d7fd35b565e6ebe5ee
+| | | Author: Ermolaev Ilya <Ermolaev.ID@yandex.ru>
+| | | Date:   Sun Nov 10 19:40:02 2024 +0500
+| | | 
+| | |     Update first.txt
+| | | 
+| * | commit b374b19facd8ed511afc0ab51f487dafeedb90d7
+| | | Author: Ermolaev Ilya <Ermolaev.ID@yandex.ru>
+| | | Date:   Sun Nov 10 19:38:20 2024 +0500
+| | | 
+| | |     Update second.txt
+| | | 
+| * | commit b94fd0c67508cc27e4c4b291c9979666852b1de7
+|/ /  Author: Ermolaev.ID <Ermolaev.ID@yandex.ru>
+| |   Date:   Sun Nov 10 19:27:36 2024 +0500
+| |   
+| |       Add
+| |   
+* |   commit 61abb4c9536e5d27176c5f36f98aa62b45930be3
+|\ \  Merge: 9bbaad5 6f42e11
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Sun Nov 10 17:43:32 2024 +0500
+| | | 
+| | |     Merge pull request #8 from ProgramIngeneering2024/ВеличкоАП
+| | |     
+| | |     ВеличкоАП задание 2
+| | | 
+| * | commit 6f42e1112fb0a8a44160b53d2ccdd1a204949e71
+|/ /  Author: aF-i-v-e <avelichko.ru@yandex.ru>
+| |   Date:   Sun Nov 10 16:42:55 2024 +0500
+| |   
+| |       ВеличкоАП задание 2
+| |   
+* |   commit 9bbaad5f6c99281776653b378ea0881153ca850c
+|\ \  Merge: ec1c803 aa71a47
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Sun Nov 10 15:24:39 2024 +0500
+| | | 
+| | |     Merge pull request #7 from ProgramIngeneering2024/pyatkovVK
+| | |     
+| | |     ПятковВК
+| | | 
+| * | commit aa71a47809d3b8b508e26998d3375eb8cadafce2
+|/ /  Author: vpiatkov <vpiatkov@nocode.ru>
+| |   Date:   Sun Nov 10 15:08:32 2024 +0500
+| |   
+| |       fix sh scripts
+| |   
+* |   commit ec1c803d6c1fb567ecb1d61ec6867b9ba39d4948
+|\ \  Merge: 2f19709 4182e3f
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Sun Nov 10 14:24:41 2024 +0500
+| | | 
+| | |     Merge pull request #6 from ProgramIngeneering2024/pyatkovVK
+| | |     
+| | |     ПятковВК
+| | | 
+| * | commit 4182e3fe931ad5c0e2e5e409d557527cf5097bb1
+| | | Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+| | | Date:   Sun Nov 10 14:13:17 2024 +0500
+| | | 
+| | |     release task2
+| | | 
+| * | commit 64d99741442e5881900a83415201f1a33529e3a9
+| |/  Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+| |   Date:   Sun Nov 10 13:56:21 2024 +0500
+| |   
+| |       PiatkovVK added
+| |   
+* |   commit 2f197095d6c659095ea2dfada52ae7db0f071ed7
+|\ \  Merge: 7229d20 3fd6135
+| |/  Author: Plazmer <praw2003@gmail.com>
+|/|   Date:   Sun Nov 10 14:23:01 2024 +0500
+| |   
+| |       Merge pull request #5 from ProgramIngeneering2024/polyakovav
+| |       
+| |       ПоляковАВ
+| | 
+| * commit 3fd6135fb43a91ee52fdb77112e13b1d3aad0b34
+|/  Author: Артём <polyakov0202@bk.ru>
+|   Date:   Sun Nov 10 11:58:23 2024 +0500
+|   
+|       polyakov tasks done
+|   
+*   commit 7229d203c54526961d32122189b0431812bb61d5
+|\  Merge: dac7049 c6b2da8
+| | Author: Plazmer <praw2003@gmail.com>
+| | Date:   Sat Nov 9 12:14:50 2024 +0500
+| | 
+| |     Merge pull request #3 from ProgramIngeneering2024/DenisovAV
+| |     
+| |     Денисов Артём megre request
+| | 
+| * commit c6b2da8e9494b8e1c3112c46746b486aa05f14cf
+| | Author: samb1232 <arterm212@gmail.com>
+| | Date:   Sat Nov 9 12:12:49 2024 +0500
+| | 
+| |     DenisovAV added
+| |   
+* |   commit dac70492f6186e33ac374496384994b1cb3e110d
+|\ \  Merge: a60d093 5b4be89
+| | | Author: Plazmer <praw2003@gmail.com>
+| | | Date:   Sat Nov 9 12:11:55 2024 +0500
+| | | 
+| | |     Merge pull request #2 from ProgramIngeneering2024/ГришинСА
+| | |     
+| | |     fix: files moved to a directory named
+| | | 
+| * | commit 5b4be890ea421ba14c209a87e2acce1ca1cc71bd
+| | | Author: Simeon <simeon02908@gmail.com>
+| | | Date:   Sat Nov 9 12:11:51 2024 +0500
+| | | 
+| | |     fix: files moved to a directory named
+| | | 
+* | | commit a60d0932a18905176257aa0990b230ebf8c381f9
+|\| | Merge: a7782c1 98b6fc4
+| |/  Author: Plazmer <praw2003@gmail.com>
+|/|   Date:   Sat Nov 9 12:07:35 2024 +0500
+| |   
+| |       Merge pull request #1 from ProgramIngeneering2024/ГришинСА
+| |       
+| |       ГришинСА
+| | 
+| * commit 98b6fc474744efd9d19f833aad6052d925c3cc99
+| | Author: Simeon <simeon02908@gmail.com>
+| | Date:   Sat Nov 9 12:06:18 2024 +0500
+| | 
+| |     chore: fixed logs for task 1
+| | 
+| * commit c504dc03704b06c1f8677f55b98cbac04df961f7
+| | Author: Simeon <simeon02908@gmail.com>
+| | Date:   Sat Nov 9 12:01:38 2024 +0500
+| | 
+| |     chore: added logs for task 2
+| | 
+| * commit a7b9c219e85c50da7a6ea0b09f9f1671dbe275b2
+| | Author: Simeon <simeon02908@gmail.com>
+| | Date:   Sat Nov 9 11:33:22 2024 +0500
+| | 
+| |     chore: added logs for task 1
+| | 
+| * commit 3e0eb11517b921d20f3a4e0e9d876b4fa5bbf895
+| | Author: Simeon <simeon02908@gmail.com>
+| | Date:   Sat Nov 9 11:16:13 2024 +0500
+| | 
+| |     release: Финальная версия истории
+| | 
+| * commit 7cccc3467a209b9c2544f6cf8d2a953acd11b95c
+| | Author: Simeon <simeon02908@gmail.com>
+| | Date:   Sat Nov 9 11:15:13 2024 +0500
+| | 
+| |     feat: нескользящие туфли для Пьера
+| | 
+| * commit 9739f532a6dcda2805aa6cd0e4795eb7436f94ce
+| | Author: Simeon <simeon02908@gmail.com>
+| | Date:   Sat Nov 9 11:14:07 2024 +0500
+| | 
+| |     hotfix: пистолет заряжен холостыми
+| | 
+| * commit a15abe4c047ab5ac8fb18e4a3a77318c7770cff0
+| | Author: Simeon <simeon02908@gmail.com>
+| | Date:   Sat Nov 9 11:12:49 2024 +0500
+| | 
+| |     feat: добавлен дождь
+| | 
+| * commit 027904b7258d3621b3ea0811d59b41bda13f93be
+|/  Author: Simeon <simeon02908@gmail.com>
+|   Date:   Sat Nov 9 11:11:06 2024 +0500
+|   
+|       initial commit
+| 
+* commit a7782c1b0ea1e045b0a53b91a4ac8f6c6a281c13
+  Author: Plazmer <praw2003@gmail.com>
+  Date:   Sat Nov 9 10:08:49 2024 +0500
+  
+      Initial commit
