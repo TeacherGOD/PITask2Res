@@ -1,0 +1,43 @@
+c6474b4b4a6e1e69b95d9d1350d2913308c36ee4 Removed cobwebs
+c066df086863bd1ba8e44e0401a30211be63b330 Changed light description
+3bae61c87f354ef39ba27b40d8bffc81c079e585 Described empty books
+1717c9c1ae88f3089e1900a53829ebf723048eac Added weather description
+bd7521cb9d783026d8a0e96899d6eaf6fcdb62ce Initial Commit
+diff --git a/story.txt b/story.txt
+index cdf812b..4b7ba05 100644
+--- a/story.txt
++++ b/story.txt
+@@ -3,3 +3,4 @@
+ Небо было серым, а легкий дождик скользил по окнам.
+ Некоторые книги оказались пустыми, как будто их страницы растворились.
+ Вместо тусклого света свечей, лампы озаряли помещение мягким теплым светом.
++К счастью, в углах уже не было паутины, словно кто-то убрал ее заранее.
+* commit c6474b4b4a6e1e69b95d9d1350d2913308c36ee4
+| Author: Vadim Verein <vadikverein45@gmail.com>
+| Date:   Mon Nov 25 21:09:14 2024 +0500
+| 
+|     Removed cobwebs
+| 
+* commit c066df086863bd1ba8e44e0401a30211be63b330
+| Author: Vadim Verein <vadikverein45@gmail.com>
+| Date:   Mon Nov 25 21:09:13 2024 +0500
+| 
+|     Changed light description
+| 
+* commit 3bae61c87f354ef39ba27b40d8bffc81c079e585
+| Author: Vadim Verein <vadikverein45@gmail.com>
+| Date:   Mon Nov 25 21:09:12 2024 +0500
+| 
+|     Described empty books
+| 
+* commit 1717c9c1ae88f3089e1900a53829ebf723048eac
+| Author: Vadim Verein <vadikverein45@gmail.com>
+| Date:   Mon Nov 25 21:08:47 2024 +0500
+| 
+|     Added weather description
+| 
+* commit bd7521cb9d783026d8a0e96899d6eaf6fcdb62ce
+  Author: Vadim Verein <vadikverein45@gmail.com>
+  Date:   Mon Nov 25 21:08:36 2024 +0500
+  
+      Initial Commit
