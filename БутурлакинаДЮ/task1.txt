@@ -1,0 +1,26 @@
+ba64625a952371a6f84dd4a2c372775990e1b447 Merge release v0.1 into master
+f08eee482114b5cba6fb64f42998df50033c1fbf Release version 0.1
+a76852e61f0c0d449e702566fd257af88d1fac81 Merge postmortem: Cause of Natasha's death
+70b95bb74580b7bb0687d49f30eef52564560822 Postmortem: Cause of Death of Natasha Rostova
+ec526756a947d793b0aed6f12fc60d08a59d9d9a Merge bug: Natasha Rostova died
+3f3d39987386b82aaacc1974b035f7f7982deea1 Bug: Natasha Rostova died
+ffcc5f6728a5464d7d8c9d733e455d0011cde023 Merge feature: Natasha walking in the rain
+517fe817fa8237f5f1b0c7abd436d64133e28165 Added: Natasha Rostova walking in the rain
+7de2fd71d6210ca6d67df34d7c1a1c7feaee1612 Initial project
+*   ba64625 Merge release v0.1 into master
+|\  
+| * f08eee4 Release version 0.1
+|/  
+*   a76852e Merge postmortem: Cause of Natasha's death
+|\  
+| * 70b95bb Postmortem: Cause of Death of Natasha Rostova
+|/  
+*   ec52675 Merge bug: Natasha Rostova died
+|\  
+| * 3f3d399 Bug: Natasha Rostova died
+|/  
+*   ffcc5f6 Merge feature: Natasha walking in the rain
+|\  
+| * 517fe81 Added: Natasha Rostova walking in the rain
+|/  
+* 7de2fd7 Initial project
