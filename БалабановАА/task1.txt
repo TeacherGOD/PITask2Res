@@ -1,0 +1,23 @@
+Git Log для Task 1:
+1126a33cc5f2ff5bab2d69c32a364c7bdc791860 Добавлено: шёл дождь.
+0974804871b0150148f81a67e273a7704b57c10a Первый коммит: Начало истории о Наташе Ростовой.
+Разница между последними коммитами:
+diff --git a/story.txt b/story.txt
+index fdde89b..50c8f9b 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1 +1,2 @@
+ В парке под дождём гуляла Наташа Ростова.
++Шёл дождь.
+Графическая история репозитория:
+* commit 1126a33cc5f2ff5bab2d69c32a364c7bdc791860
+| Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+| Date:   Sat Nov 16 00:41:18 2024 +0300
+| 
+|     Добавлено: шёл дождь.
+| 
+* commit 0974804871b0150148f81a67e273a7704b57c10a
+  Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+  Date:   Sat Nov 16 00:41:01 2024 +0300
+  
+      Первый коммит: Начало истории о Наташе Ростовой.
