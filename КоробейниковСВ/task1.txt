@@ -1,0 +1,45 @@
+09490603837490ca70ac0f570c4481ef8be12714 Feature: убран злополучный столб
+814f1e1c9ebbdb86d6bb0ca592b1cbbd76a4a6fa Feature: Пьер меняет туфли для безопасности
+57079fb9195279ac0d1633aae7a9bcb62830235b Fix: исправлено заряжение пистолета Пьера холостыми
+b58b7706cbf560b7d8544c8ac7fc252f610784e7 Feature: сцена с дождём и Наташей Ростовой
+9b487af788a76a4986293c7a992389c05e8caf66 Initial commit: Заросший сад и сторожка
+
+diff --git a/story.txt b/story.txt
+index 8e6bdef..d42bb67 100644
+--- a/story.txt
++++ b/story.txt
+
+@@ -2,3 +2,4 @@
+ На сад опустился дождь, и Наташа Ростова медленно шла по мокрым дорожкам, задумавшись о прошлом.
+ Выяснилось, что пистолет у Пьера Безухова был заряжен холостыми, предотвращая трагедию.
+ Пьер Безухов наконец сменил скользкие туфли на удобные ботинки.
++Столб в парке, ставший причиной многих бед, был демонтирован.
+* commit 09490603837490ca70ac0f570c4481ef8be12714
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:38:44 2024 +0500
+| 
+|     Feature: убран злополучный столб
+| 
+* commit 814f1e1c9ebbdb86d6bb0ca592b1cbbd76a4a6fa
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:38:35 2024 +0500
+| 
+|     Feature: Пьер меняет туфли для безопасности
+| 
+* commit 57079fb9195279ac0d1633aae7a9bcb62830235b
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:38:17 2024 +0500
+| 
+|     Fix: исправлено заряжение пистолета Пьера холостыми
+| 
+* commit b58b7706cbf560b7d8544c8ac7fc252f610784e7
+| Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+| Date:   Fri Nov 22 19:38:04 2024 +0500
+| 
+|     Feature: сцена с дождём и Наташей Ростовой
+| 
+* commit 9b487af788a76a4986293c7a992389c05e8caf66
+  Author: Saveliy Korobeynikov <sightfix31@gmail.com>
+  Date:   Fri Nov 22 19:37:07 2024 +0500
+  
+      Initial commit: Заросший сад и сторожка

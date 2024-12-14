@@ -1,0 +1,29 @@
+1ed42034613050bfa69e01258cfa05151e830dd4 removed post
+a0298589106e5495e98dc4ea6fec8b7e846b1ecf rain added
+ffbb5ecade1f0fb73e7f2251a068108cb7356e6d blank ammunition
+cf29bb438af2cfa0cf564339a276156baa81e20a initial commit
+diff --git a/story.txt b/story.txt
+index a66defb..72e1615 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,2 +1,3 @@
+ В сторожке у каменных ворот въезда никого не было и дверь была отперта.
+ Пистолет был заряжен холостыми патронами
++Унесли столб
+* commit 1ed42034613050bfa69e01258cfa05151e830dd4
+| Author: spareProfile <da.baranova_1017@mail.ru>
+| Date:   Thu Nov 14 18:56:33 2024 +0500
+| 
+|     removed post
+| 
+* commit ffbb5ecade1f0fb73e7f2251a068108cb7356e6d
+| Author: spareProfile <da.baranova_1017@mail.ru>
+| Date:   Thu Nov 14 18:56:32 2024 +0500
+| 
+|     blank ammunition
+| 
+* commit cf29bb438af2cfa0cf564339a276156baa81e20a
+  Author: spareProfile <da.baranova_1017@mail.ru>
+  Date:   Thu Nov 14 18:56:32 2024 +0500
+  
+      initial commit

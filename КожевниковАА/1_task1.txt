@@ -1,0 +1,110 @@
+7a735fe4e0fb5ef9a9484d5f8c486d0895fc0ebe RELEASE_v3
+1e4ef9eafd03e9cf4fca989d1611cb3f8e0e5077 RELEASE_v3
+d6b03e9404b598e43ea0135a91182de1c68cb323 v0.3
+1cc407ec1f4a025140dec745381e0e64e57b1bfa close third feature
+9adfb42c584c2d4bd10113cb1ad5f73434aab438 RELEASE_v2
+22913d6372aab835ebecd6de771ac0d847525376 RELEASE_v2
+7343822451d224e2a7ce19f107caf9162e6cf208 v0.2
+ce74e91050cbcd17bfd682e19287fb7b971291e8 close second feature
+bf04457740b05ee857745d4faa55a00ff25d3053 RELEASE_v1
+546e19576793b04499db8ab0f4e55440daf9cc54 RELEASE_v1
+f2aa676e137ed50115115d29124b3371d5ca4748 v0.1
+c207d500fee1173b842170d65049850c9a374a9b close first feature
+415205526d061be8d31fca8546bd4a3bb7d1c14e initial commit
+__________________________________________ 
+diff --git a/1_version.txt b/1_version.txt
+index e4708ac..dda90d0 100644
+--- a/1_version.txt
++++ b/1_version.txt
+@@ -1,2 +1,3 @@
+ version num 0.1 
+ version num 0.2 
++version num 0.3 
+__________________________________________
+*   commit 7a735fe4e0fb5ef9a9484d5f8c486d0895fc0ebe
+|\  Merge: 1cc407e 1e4ef9e
+| | Author: flexiG <mister23krut@gmail.com>
+| | Date:   Fri Nov 15 15:13:30 2024 +0500
+| | 
+| |     RELEASE_v3
+| |   
+| *   commit 1e4ef9eafd03e9cf4fca989d1611cb3f8e0e5077
+| |\  Merge: 22913d6 d6b03e9
+| | | Author: flexiG <mister23krut@gmail.com>
+| | | Date:   Fri Nov 15 15:13:09 2024 +0500
+| | | 
+| | |     RELEASE_v3
+| | | 
+| | * commit d6b03e9404b598e43ea0135a91182de1c68cb323
+| |/  Author: flexiG <mister23krut@gmail.com>
+|/|   Date:   Fri Nov 15 15:12:57 2024 +0500
+| |   
+| |       v0.3
+| | 
+* | commit 1cc407ec1f4a025140dec745381e0e64e57b1bfa
+| | Author: flexiG <mister23krut@gmail.com>
+| | Date:   Fri Nov 15 15:12:45 2024 +0500
+| | 
+| |     close third feature
+| | 
+* | commit 9adfb42c584c2d4bd10113cb1ad5f73434aab438
+|\| Merge: ce74e91 22913d6
+| | Author: flexiG <mister23krut@gmail.com>
+| | Date:   Fri Nov 15 15:12:27 2024 +0500
+| | 
+| |     RELEASE_v2
+| |     
+| |     RELEASE_v2
+| |   
+| *   commit 22913d6372aab835ebecd6de771ac0d847525376
+| |\  Merge: 546e195 7343822
+| | | Author: flexiG <mister23krut@gmail.com>
+| | | Date:   Fri Nov 15 15:12:10 2024 +0500
+| | | 
+| | |     RELEASE_v2
+| | | 
+| | * commit 7343822451d224e2a7ce19f107caf9162e6cf208
+| |/  Author: flexiG <mister23krut@gmail.com>
+|/|   Date:   Fri Nov 15 15:11:58 2024 +0500
+| |   
+| |       v0.2
+| | 
+* | commit ce74e91050cbcd17bfd682e19287fb7b971291e8
+| | Author: flexiG <mister23krut@gmail.com>
+| | Date:   Fri Nov 15 15:11:46 2024 +0500
+| | 
+| |     close second feature
+| | 
+* | commit bf04457740b05ee857745d4faa55a00ff25d3053
+|\| Merge: c207d50 546e195
+| | Author: flexiG <mister23krut@gmail.com>
+| | Date:   Fri Nov 15 15:10:36 2024 +0500
+| | 
+| |     RELEASE_v1
+| |     
+| |     RELEASE_1
+| |   
+| *   commit 546e19576793b04499db8ab0f4e55440daf9cc54
+| |\  Merge: 4152055 f2aa676
+| | | Author: flexiG <mister23krut@gmail.com>
+| | | Date:   Fri Nov 15 15:10:16 2024 +0500
+| | | 
+| | |     RELEASE_v1
+| | | 
+| | * commit f2aa676e137ed50115115d29124b3371d5ca4748
+| |/  Author: flexiG <mister23krut@gmail.com>
+|/|   Date:   Fri Nov 15 15:10:05 2024 +0500
+| |   
+| |       v0.1
+| | 
+* | commit c207d500fee1173b842170d65049850c9a374a9b
+|/  Author: flexiG <mister23krut@gmail.com>
+|   Date:   Fri Nov 15 15:09:53 2024 +0500
+|   
+|       close first feature
+| 
+* commit 415205526d061be8d31fca8546bd4a3bb7d1c14e
+  Author: flexiG <mister23krut@gmail.com>
+  Date:   Fri Nov 15 15:09:39 2024 +0500
+  
+      initial commit

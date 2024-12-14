@@ -1,0 +1,39 @@
+f02fbcb6ef1fe4499082451275c7aaba9ec45310 feature 3 work
+9a98b8bf8a78a9e6318ae5457cff2ec47bca30c0 feature 2 work
+5df8f7923f6cf61a9a96dc1b6b6fbaaeaae4f5ee initial commit
+a6db2b655de454b663381fc9dbe7283901925a59 feature 1 work
+1a8a743829ac40f685234611de4fe49115a6b520 hotfix 1 work
+-------------------------------------
+diff --git a/story.txt b/story.txt
+index 0d6e317..8667057 100644
+--- a/story.txt
++++ b/story.txt
+@@ -3,3 +3,4 @@
+ Наташа Ростова гуляла под дождём по парку
+ шёл дождь
+ Зарядить пистолет холостыми
++убрать столб
+-------------------------------------
+* commit f02fbcb6ef1fe4499082451275c7aaba9ec45310
+| Author: Konstantin <rebrin24@gmail.com>
+| Date:   Fri Nov 15 23:27:03 2024 +0500
+| 
+|     feature 3 work
+| 
+* commit 1a8a743829ac40f685234611de4fe49115a6b520
+| Author: Konstantin <rebrin24@gmail.com>
+| Date:   Fri Nov 15 23:27:03 2024 +0500
+| 
+|     hotfix 1 work
+| 
+* commit a6db2b655de454b663381fc9dbe7283901925a59
+| Author: Konstantin <rebrin24@gmail.com>
+| Date:   Fri Nov 15 23:27:03 2024 +0500
+| 
+|     feature 1 work
+| 
+* commit 5df8f7923f6cf61a9a96dc1b6b6fbaaeaae4f5ee
+  Author: Konstantin <rebrin24@gmail.com>
+  Date:   Fri Nov 15 23:27:03 2024 +0500
+  
+      initial commit

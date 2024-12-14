@@ -1,0 +1,41 @@
+9b45ee130f3be3320c587f506ec8f60ee35caf44 Убрал столб
+1576185ec9f1efebb5c49bb324bddbea5d6f89a8 Заменил скользкие туфли
+c3b850cd743fe27dfb8fcb725fb3105390eb5e46 Попытка исправить смерть персонажа
+60a325a612d22d2bbba58b1ef1c84701d3969cef Добавил смерть персонажа
+4273db592e187b2a68d700341529552a1f0f607e Дописал доджь к истории
+f411bb6c078e8dfac4e7689e185a2bb9ae0e4983 Начальный коммит с историей
+* commit 9b45ee130f3be3320c587f506ec8f60ee35caf44
+| Author: frog016 <mixalyov.nikita@mail.ru>
+| Date:   Tue Nov 12 19:33:33 2024 +0500
+| 
+|     Убрал столб
+| 
+* commit 1576185ec9f1efebb5c49bb324bddbea5d6f89a8
+| Author: frog016 <mixalyov.nikita@mail.ru>
+| Date:   Tue Nov 12 19:33:32 2024 +0500
+| 
+|     Заменил скользкие туфли
+| 
+* commit c3b850cd743fe27dfb8fcb725fb3105390eb5e46
+| Author: frog016 <mixalyov.nikita@mail.ru>
+| Date:   Tue Nov 12 19:33:32 2024 +0500
+| 
+|     Попытка исправить смерть персонажа
+| 
+* commit 60a325a612d22d2bbba58b1ef1c84701d3969cef
+| Author: frog016 <mixalyov.nikita@mail.ru>
+| Date:   Tue Nov 12 19:33:31 2024 +0500
+| 
+|     Добавил смерть персонажа
+| 
+* commit 4273db592e187b2a68d700341529552a1f0f607e
+| Author: frog016 <mixalyov.nikita@mail.ru>
+| Date:   Tue Nov 12 19:33:31 2024 +0500
+| 
+|     Дописал доджь к истории
+| 
+* commit f411bb6c078e8dfac4e7689e185a2bb9ae0e4983
+  Author: frog016 <mixalyov.nikita@mail.ru>
+  Date:   Tue Nov 12 19:33:31 2024 +0500
+  
+      Начальный коммит с историей

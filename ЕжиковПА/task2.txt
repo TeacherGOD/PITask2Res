@@ -1,0 +1,43 @@
+180fc715dbee90d29ff85197f66701b9e86c6f48 Change bullets in Pierre pistol
+562ef2605c5b0758a10d2cfeceb75efc688bf91d Remove dangerous pole
+f26171f66e51c48e82f8325301569d2d398bbdf7 Add rain
+ee68eedc95d548203927b2722717c70c7bbe311c Update footwear
+3386acfe739d4114fc6c8f4295ac44e52303bb1d Initial commit
+diff --git a/story.txt b/story.txt
+index a45d06a..18aa69d 100644
+--- a/story.txt
++++ b/story.txt
+@@ -2,3 +2,4 @@
+ Шел дождь.
+ У Пьера в пистолете холосты патроны.
+ Пьер сменил скользкие туфли на надежные сапоги.
++На месте старого столба разбит небольшой цветник.
+* commit 562ef2605c5b0758a10d2cfeceb75efc688bf91d
+| Author: Pavel Yozhikov <mail@dfjay.com>
+| Date:   Fri Nov 15 23:55:59 2024 +0500
+| 
+|     Remove dangerous pole
+| 
+* commit ee68eedc95d548203927b2722717c70c7bbe311c
+| Author: Pavel Yozhikov <mail@dfjay.com>
+| Date:   Fri Nov 15 23:55:59 2024 +0500
+| 
+|     Update footwear
+| 
+* commit 180fc715dbee90d29ff85197f66701b9e86c6f48
+| Author: Pavel Yozhikov <mail@dfjay.com>
+| Date:   Fri Nov 15 23:55:59 2024 +0500
+| 
+|     Change bullets in Pierre pistol
+| 
+* commit f26171f66e51c48e82f8325301569d2d398bbdf7
+| Author: Pavel Yozhikov <mail@dfjay.com>
+| Date:   Fri Nov 15 23:55:59 2024 +0500
+| 
+|     Add rain
+| 
+* commit 3386acfe739d4114fc6c8f4295ac44e52303bb1d
+  Author: Pavel Yozhikov <mail@dfjay.com>
+  Date:   Fri Nov 15 23:55:59 2024 +0500
+  
+      Initial commit

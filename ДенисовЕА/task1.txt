@@ -1,0 +1,83 @@
+4c77d9caf9021ecb15cfe82c0fae1f2ac51735f9 Release v0.1: Финальная версия истории
+d6414f2de54089af361d25335ccbdad3519f6543 Merge feature/remove-pillar into develop
+e11029d82033216c2b14f6bbb0f5d2b44c62d862 Feature: Убрали столб
+c209fa758e860bfec31c22cf73590e50861e2edc Merge hotfix/empty-gun into develop
+8f78b21e33a3d94c9e39aab3c5e5ffb3f13257e9 Hotfix: Заряжен пистолет холостыми
+0316bfbcc7166e8a73c3de833f66acd6908209cf Merge postmortem into develop
+e5dbb7f70219e6aa99d5686677e46bbdfaff877b Postmortem: Причина смерти Наташи Ростовой
+a95a767f16e0843b2b2de2a1e86a84bfa9e370b1 Bug: Наташа Ростова умерла
+4ba3ce2f542d6a9cee65addd6108b7d830430d97 Merge feature/rain into develop
+e84efc94b3af13a10ec31bba2fa9c9014ed98594 Feature: Добавлено упоминание о дожде
+62010ba87c145822090e829dd9043cf96531b7dc Initial commit: начало истории
+diff --git a/story.txt b/story.txt
+index 3939fa0..5f7a3f1 100644
+--- a/story.txt
++++ b/story.txt
+@@ -4,3 +4,4 @@
+ Bug report: Наташа Ростова умерла, продолжение невозможно.
+ Postmortem report: Пьер Безухов упал, его пистолет выстрелил в столб, пуля срикошетила и убила Наташу.
+ Hotfix: Пистолет заряжен холостыми патронами.
++Feature: Убрали столб.
+*   commit d6414f2de54089af361d25335ccbdad3519f6543
+|\  Merge: c209fa7 e11029d
+| | Author: Efim Denisov <efim.denisov@gmail.com>
+| | Date:   Sat Nov 16 00:22:19 2024 +0500
+| | 
+| |     Merge feature/remove-pillar into develop
+| | 
+| * commit e11029d82033216c2b14f6bbb0f5d2b44c62d862
+|/  Author: Efim Denisov <efim.denisov@gmail.com>
+|   Date:   Sat Nov 16 00:22:19 2024 +0500
+|   
+|       Feature: Убрали столб
+|   
+*   commit c209fa758e860bfec31c22cf73590e50861e2edc
+|\  Merge: 0316bfb 8f78b21
+| | Author: Efim Denisov <efim.denisov@gmail.com>
+| | Date:   Sat Nov 16 00:22:14 2024 +0500
+| | 
+| |     Merge hotfix/empty-gun into develop
+| | 
+| * commit 8f78b21e33a3d94c9e39aab3c5e5ffb3f13257e9
+|/  Author: Efim Denisov <efim.denisov@gmail.com>
+|   Date:   Sat Nov 16 00:22:10 2024 +0500
+|   
+|       Hotfix: Заряжен пистолет холостыми
+|   
+*   commit 0316bfbcc7166e8a73c3de833f66acd6908209cf
+|\  Merge: 4ba3ce2 e5dbb7f
+| | Author: Efim Denisov <efim.denisov@gmail.com>
+| | Date:   Sat Nov 16 00:22:03 2024 +0500
+| | 
+| |     Merge postmortem into develop
+| | 
+| * commit e5dbb7f70219e6aa99d5686677e46bbdfaff877b
+| | Author: Efim Denisov <efim.denisov@gmail.com>
+| | Date:   Sat Nov 16 00:21:59 2024 +0500
+| | 
+| |     Postmortem: Причина смерти Наташи Ростовой
+| | 
+| * commit a95a767f16e0843b2b2de2a1e86a84bfa9e370b1
+|/  Author: Efim Denisov <efim.denisov@gmail.com>
+|   Date:   Sat Nov 16 00:21:51 2024 +0500
+|   
+|       Bug: Наташа Ростова умерла
+|   
+*   commit 4ba3ce2f542d6a9cee65addd6108b7d830430d97
+|\  Merge: 62010ba e84efc9
+| | Author: Efim Denisov <efim.denisov@gmail.com>
+| | Date:   Sat Nov 16 00:21:43 2024 +0500
+| | 
+| |     Merge feature/rain into develop
+| | 
+| * commit e84efc94b3af13a10ec31bba2fa9c9014ed98594
+|/  Author: Efim Denisov <efim.denisov@gmail.com>
+|   Date:   Sat Nov 16 00:21:31 2024 +0500
+|   
+|       Feature: Добавлено упоминание о дожде
+| 
+* commit 62010ba87c145822090e829dd9043cf96531b7dc
+  Author: Efim Denisov <efim.denisov@gmail.com>
+  Date:   Sat Nov 16 00:21:16 2024 +0500
+  
+      Initial commit: начало истории
