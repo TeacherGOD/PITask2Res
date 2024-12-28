@@ -1,0 +1,41 @@
+1. git log: 
+3612f987e0ebb4320eaf8b488a7775249d6e4168 fourth_line
+b669f79095e22cb2e8203e3d091dee7daf71bdbe third_line
+b03e3b3584fcd4eb08e53d706c196a7fc181f809 second_line
+a834c550fd47b13d2ffcf52fa8a82e741ddf0bf7 Initial commit: first_line
+ 
+2. граф: 
+* commit 3612f987e0ebb4320eaf8b488a7775249d6e4168
+| Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| Date:   Thu Nov 14 17:44:33 2024 +0500
+| 
+|     fourth_line
+| 
+* commit b669f79095e22cb2e8203e3d091dee7daf71bdbe
+| Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| Date:   Thu Nov 14 17:44:33 2024 +0500
+| 
+|     third_line
+| 
+* commit b03e3b3584fcd4eb08e53d706c196a7fc181f809
+| Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+| Date:   Thu Nov 14 17:44:33 2024 +0500
+| 
+|     second_line
+| 
+* commit a834c550fd47b13d2ffcf52fa8a82e741ddf0bf7
+  Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+  Date:   Thu Nov 14 17:44:33 2024 +0500
+  
+      Initial commit: first_line
+ 
+3. diff: 
+diff --git a/story.txt b/story.txt
+index 92b0b81..c83860e 100644
+--- a/story.txt
++++ b/story.txt
+@@ -1,2 +1,4 @@
+ Думал, жизнь это роман, а это просто повесть 
+ Душу Дьяволу продам в обмен на твою совесть 
++Дам тебе обойму, выстрели мне в спину дважды 
++Столько лет в этой игре, но до сих пор я чую жажду 
