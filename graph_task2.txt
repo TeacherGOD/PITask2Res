@@ -1,0 +1,38 @@
+* commit 91fc47f13fecc39d09e354fd606add29f46c0d37
+| Author: Vladimir Chichugin <growder1@gmail.com>
+| Date:   Wed Jan 15 14:41:04 2025 +0500
+| 
+|     UTF-8, Again....
+|   
+*   commit c32007a2b9f2607dde0465b9f673a861e5c0551c
+|\  Merge: b223fc7 065020c
+| | Author: Vladimir Chichugin <growder1@gmail.com>
+| | Date:   Wed Jan 15 14:38:24 2025 +0500
+| | 
+| |     t branch -d feature/новый_персонаж
+| |     Merge branch 'feature/новый_персонаж'
+| | 
+| * commit 065020c37f44093ed74e6f71639949852166992d
+|/  Author: Vladimir Chichugin <growder1@gmail.com>
+|   Date:   Wed Jan 15 14:38:18 2025 +0500
+|   
+|       Добавлен новый персонаж - Ангел
+|   
+*   commit b223fc7a1df260f1284665866673c6f68aa989fb
+|\  Merge: 6c15bec 7eb2d1f
+| | Author: Vladimir Chichugin <growder1@gmail.com>
+| | Date:   Wed Jan 15 14:37:47 2025 +0500
+| | 
+| |     Merge branch 'feature/приключение_в_аду'
+| | 
+| * commit 7eb2d1f8d48ff1e5365a966837d3136a2df4260d
+|/  Author: Vladimir Chichugin <growder1@gmail.com>
+|   Date:   Wed Jan 15 14:36:19 2025 +0500
+|   
+|       Добавлено приключение с Дьяволом
+| 
+* commit 6c15bec0874e83a7112285adf01290b801945ed7
+  Author: Vladimir Chichugin <growder1@gmail.com>
+  Date:   Wed Jan 15 14:36:06 2025 +0500
+  
+      Начало истории
