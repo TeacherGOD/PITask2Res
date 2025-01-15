@@ -1,0 +1,37 @@
+* commit 6c6005b941315305181160cd3fad6d4e26740f42
+| Author: Vladimir Chichugin <growder1@gmail.com>
+| Date:   Wed Jan 15 13:30:46 2025 +0500
+| 
+|     newUTF8
+|   
+*   commit ccdab763bf6d350a37795364ad404076ce94e0c5
+|\  Merge: 39abe7b 5c7e518
+| | Author: Vladimir Chichugin <growder1@gmail.com>
+| | Date:   Wed Jan 15 13:18:33 2025 +0500
+| | 
+| |     Merge branch 'release/v0.1'
+| | 
+| * commit 5c7e518e559de74bb7ef9566e10de7cd471fc4dd
+| | Author: Vladimir Chichugin <growder1@gmail.com>
+| | Date:   Wed Jan 15 13:18:21 2025 +0500
+| | 
+| |     Готова первая глава для релиза
+| | 
+| * commit a8f0a0f11681533e7add3de271ce989e93e7524a
+|/| Merge: 39abe7b 57ac5e4
+| | Author: Vladimir Chichugin <growder1@gmail.com>
+| | Date:   Wed Jan 15 13:17:29 2025 +0500
+| | 
+| |     Merge branch 'feature/новый_персонаж' into develop
+| | 
+| * commit 57ac5e49c41be8510eb98f26ac1c049e7ec9962b
+|/  Author: Vladimir Chichugin <growder1@gmail.com>
+|   Date:   Wed Jan 15 13:16:47 2025 +0500
+|   
+|       Добавлен новый персонаж - Дьявол
+| 
+* commit 39abe7bf6c717579e42407de28a3e57da21a148e
+  Author: Vladimir Chichugin <growder1@gmail.com>
+  Date:   Wed Jan 15 13:14:08 2025 +0500
+  
+      Начало истории

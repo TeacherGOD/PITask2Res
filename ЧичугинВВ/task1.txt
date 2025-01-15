@@ -1,0 +1,6 @@
+6c6005b941315305181160cd3fad6d4e26740f42 newUTF8
+ccdab763bf6d350a37795364ad404076ce94e0c5 Merge branch 'release/v0.1'
+5c7e518e559de74bb7ef9566e10de7cd471fc4dd Готова первая глава для релиза
+a8f0a0f11681533e7add3de271ce989e93e7524a Merge branch 'feature/новый_персонаж' into develop
+57ac5e49c41be8510eb98f26ac1c049e7ec9962b Добавлен новый персонаж - Дьявол
+39abe7bf6c717579e42407de28a3e57da21a148e Начало истории

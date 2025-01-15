@@ -1,0 +1,6 @@
+91fc47f13fecc39d09e354fd606add29f46c0d37 UTF-8, Again....
+c32007a2b9f2607dde0465b9f673a861e5c0551c t branch -d feature/новый_персонаж Merge branch 'feature/новый_персонаж'
+065020c37f44093ed74e6f71639949852166992d Добавлен новый персонаж - Ангел
+b223fc7a1df260f1284665866673c6f68aa989fb Merge branch 'feature/приключение_в_аду'
+7eb2d1f8d48ff1e5365a966837d3136a2df4260d Добавлено приключение с Дьяволом
+6c15bec0874e83a7112285adf01290b801945ed7 Начало истории
